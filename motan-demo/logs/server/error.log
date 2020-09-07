@@ -35,3 +35,162 @@
 2020-09-07 15:14:44 [ERROR] NettyDecoder decode fail! requestid82920134, size:626, ip:127.0.0.1, e:error_message: decode error: isResponse=false, status: 503, error_code: 20003,r=null
 2020-09-07 15:46:13 [ERROR] NettyDecoder decode fail! requestid33058165, size:626, ip:127.0.0.1, e:error_message: decode error: isResponse=false, status: 503, error_code: 20003,r=null
 2020-09-07 16:12:21 [ERROR] NettyDecoder decode fail! requestid4599214, size:626, ip:127.0.0.1, e:error_message: decode error: isResponse=false, status: 503, error_code: 20003,r=null
+2020-09-07 16:42:19 [ERROR] NettyDecoder decode fail! requestid75748543, size:626, ip:127.0.0.1, e:error_message: decode error: isResponse=false, status: 503, error_code: 20003,r=null
+2020-09-07 16:42:49 [ERROR] NettyDecoder decode fail! requestid16416980, size:650, ip:127.0.0.1, e:error_message: decode error: isResponse=false, status: 503, error_code: 20003,r=null
+2020-09-07 16:43:13 [ERROR] NettyDecoder decode fail! requestid66648686, size:653, ip:127.0.0.1, e:error_message: decode error: isResponse=false, status: 503, error_code: 20003,r=null
+2020-09-07 16:44:00 [ERROR] NettyDecoder decode fail! requestid26139476, size:653, ip:127.0.0.1, e:error_message: decode error: isResponse=false, status: 503, error_code: 20003,r=null
+2020-09-07 16:44:00 [ERROR] NettyEncoder encode error, identity=motan://192.168.3.29:8002/motan-demo-rpc//1.0/service
+com.weibo.api.motan.exception.MotanFrameworkException: error_message: encode error: isResponse=true, status: 503, error_code: 20002,r=null
+	at com.weibo.api.motan.protocol.rpc.DefaultRpcCodec.encode(DefaultRpcCodec.java:63)
+	at com.weibo.api.motan.transport.netty4.CodecUtil.encodeMessage(CodecUtil.java:54)
+	at com.weibo.api.motan.transport.netty4.CodecUtil.encodeObjectToBytes(CodecUtil.java:25)
+	at com.weibo.api.motan.transport.netty4.NettyChannelHandler.sendResponse(NettyChannelHandler.java:178)
+	at com.weibo.api.motan.transport.netty4.NettyChannelHandler.processMessage(NettyChannelHandler.java:118)
+	at com.weibo.api.motan.transport.netty4.NettyChannelHandler.access$000(NettyChannelHandler.java:32)
+	at com.weibo.api.motan.transport.netty4.NettyChannelHandler$1.run(NettyChannelHandler.java:73)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: java.lang.RuntimeException: Serialized class com.sun.jndi.ldap.LdapCtx must implement java.io.Serializable
+ field: javax.naming.NamingException.resolvedObj
+ class: javax.naming.NamingException (object=javax.naming.NamingException: problem generating object using object factory [Root exception is java.lang.ClassCastException: exp cannot be cast to javax.naming.spi.ObjectFactory]; remaining name '#exp')
+ field: java.lang.Throwable.cause
+ class: org.springframework.beans.factory.BeanDefinitionStoreException (object=org.springframework.beans.factory.BeanDefinitionStoreException: Invalid bean definition with name 'ldap://120.77.180.97:8817/#exp' defined in JNDI environment: JNDI lookup failed; nested exception is javax.naming.NamingException: problem generating object using object factory [Root exception is java.lang.ClassCastException: exp cannot be cast to javax.naming.spi.ObjectFactory]; remaining name '#exp')
+ field: java.lang.Throwable.cause
+ class: com.weibo.api.motan.exception.MotanFrameworkException (object=com.weibo.api.motan.exception.MotanFrameworkException: error_message: decode error: isResponse=false, status: 503, error_code: 20003,r=null)
+	at com.caucho.hessian.io.JavaSerializer.writeInstance(JavaSerializer.java:294)
+	at com.caucho.hessian.io.JavaSerializer.writeObject(JavaSerializer.java:253)
+	at com.caucho.hessian.io.ThrowableSerializer.writeObject(ThrowableSerializer.java:70)
+	at com.caucho.hessian.io.Hessian2Output.writeObject(Hessian2Output.java:465)
+	at com.weibo.api.motan.serialize.Hessian2Serialization.serialize(Hessian2Serialization.java:42)
+	at com.weibo.api.motan.codec.AbstractCodec.serialize(AbstractCodec.java:44)
+	at com.weibo.api.motan.protocol.rpc.DefaultRpcCodec.encodeResponse(DefaultRpcCodec.java:226)
+	at com.weibo.api.motan.protocol.rpc.DefaultRpcCodec.encode(DefaultRpcCodec.java:57)
+	... 9 more
+Caused by: java.lang.RuntimeException: Serialized class com.sun.jndi.ldap.LdapCtx must implement java.io.Serializable
+ field: javax.naming.NamingException.resolvedObj
+ class: javax.naming.NamingException (object=javax.naming.NamingException: problem generating object using object factory [Root exception is java.lang.ClassCastException: exp cannot be cast to javax.naming.spi.ObjectFactory]; remaining name '#exp')
+ field: java.lang.Throwable.cause
+ class: org.springframework.beans.factory.BeanDefinitionStoreException (object=org.springframework.beans.factory.BeanDefinitionStoreException: Invalid bean definition with name 'ldap://120.77.180.97:8817/#exp' defined in JNDI environment: JNDI lookup failed; nested exception is javax.naming.NamingException: problem generating object using object factory [Root exception is java.lang.ClassCastException: exp cannot be cast to javax.naming.spi.ObjectFactory]; remaining name '#exp')
+ field: java.lang.Throwable.cause
+	at com.caucho.hessian.io.JavaSerializer$FieldSerializer.serialize(JavaSerializer.java:354)
+	at com.caucho.hessian.io.JavaSerializer.writeInstance(JavaSerializer.java:291)
+	... 16 more
+Caused by: java.lang.RuntimeException: Serialized class com.sun.jndi.ldap.LdapCtx must implement java.io.Serializable
+ field: javax.naming.NamingException.resolvedObj
+ class: javax.naming.NamingException (object=javax.naming.NamingException: problem generating object using object factory [Root exception is java.lang.ClassCastException: exp cannot be cast to javax.naming.spi.ObjectFactory]; remaining name '#exp')
+ field: java.lang.Throwable.cause
+ class: org.springframework.beans.factory.BeanDefinitionStoreException (object=org.springframework.beans.factory.BeanDefinitionStoreException: Invalid bean definition with name 'ldap://120.77.180.97:8817/#exp' defined in JNDI environment: JNDI lookup failed; nested exception is javax.naming.NamingException: problem generating object using object factory [Root exception is java.lang.ClassCastException: exp cannot be cast to javax.naming.spi.ObjectFactory]; remaining name '#exp')
+	at com.caucho.hessian.io.JavaSerializer.writeInstance(JavaSerializer.java:294)
+	at com.caucho.hessian.io.JavaSerializer.writeObject(JavaSerializer.java:253)
+	at com.caucho.hessian.io.ThrowableSerializer.writeObject(ThrowableSerializer.java:70)
+	at com.caucho.hessian.io.Hessian2Output.writeObject(Hessian2Output.java:465)
+	at com.caucho.hessian.io.JavaSerializer$FieldSerializer.serialize(JavaSerializer.java:352)
+	... 17 more
+Caused by: java.lang.RuntimeException: Serialized class com.sun.jndi.ldap.LdapCtx must implement java.io.Serializable
+ field: javax.naming.NamingException.resolvedObj
+ class: javax.naming.NamingException (object=javax.naming.NamingException: problem generating object using object factory [Root exception is java.lang.ClassCastException: exp cannot be cast to javax.naming.spi.ObjectFactory]; remaining name '#exp')
+ field: java.lang.Throwable.cause
+	at com.caucho.hessian.io.JavaSerializer$FieldSerializer.serialize(JavaSerializer.java:354)
+	at com.caucho.hessian.io.JavaSerializer.writeInstance(JavaSerializer.java:291)
+	... 21 more
+Caused by: java.lang.RuntimeException: Serialized class com.sun.jndi.ldap.LdapCtx must implement java.io.Serializable
+ field: javax.naming.NamingException.resolvedObj
+ class: javax.naming.NamingException (object=javax.naming.NamingException: problem generating object using object factory [Root exception is java.lang.ClassCastException: exp cannot be cast to javax.naming.spi.ObjectFactory]; remaining name '#exp')
+	at com.caucho.hessian.io.JavaSerializer.writeInstance(JavaSerializer.java:294)
+	at com.caucho.hessian.io.JavaSerializer.writeObject(JavaSerializer.java:253)
+	at com.caucho.hessian.io.ThrowableSerializer.writeObject(ThrowableSerializer.java:70)
+	at com.caucho.hessian.io.Hessian2Output.writeObject(Hessian2Output.java:465)
+	at com.caucho.hessian.io.JavaSerializer$FieldSerializer.serialize(JavaSerializer.java:352)
+	... 22 more
+Caused by: java.lang.RuntimeException: Serialized class com.sun.jndi.ldap.LdapCtx must implement java.io.Serializable
+ field: javax.naming.NamingException.resolvedObj
+	at com.caucho.hessian.io.JavaSerializer$FieldSerializer.serialize(JavaSerializer.java:354)
+	at com.caucho.hessian.io.JavaSerializer.writeInstance(JavaSerializer.java:291)
+	... 26 more
+Caused by: java.lang.IllegalStateException: Serialized class com.sun.jndi.ldap.LdapCtx must implement java.io.Serializable
+	at com.caucho.hessian.io.SerializerFactory.getDefaultSerializer(SerializerFactory.java:353)
+	at com.caucho.hessian.io.SerializerFactory.loadSerializer(SerializerFactory.java:334)
+	at com.caucho.hessian.io.SerializerFactory.getSerializer(SerializerFactory.java:234)
+	at com.caucho.hessian.io.SerializerFactory.getObjectSerializer(SerializerFactory.java:206)
+	at com.caucho.hessian.io.Hessian2Output.writeObject(Hessian2Output.java:462)
+	at com.caucho.hessian.io.JavaSerializer$FieldSerializer.serialize(JavaSerializer.java:352)
+	... 27 more
+2020-09-07 16:44:31 [ERROR] NettyDecoder decode fail! requestid8187874, size:650, ip:127.0.0.1, e:error_message: decode error: isResponse=false, status: 503, error_code: 20003,r=null
+2020-09-07 16:44:31 [ERROR] NettyEncoder encode error, identity=motan://192.168.3.29:8002/motan-demo-rpc//1.0/service
+com.weibo.api.motan.exception.MotanFrameworkException: error_message: encode error: isResponse=true, status: 503, error_code: 20002,r=null
+	at com.weibo.api.motan.protocol.rpc.DefaultRpcCodec.encode(DefaultRpcCodec.java:63)
+	at com.weibo.api.motan.transport.netty4.CodecUtil.encodeMessage(CodecUtil.java:54)
+	at com.weibo.api.motan.transport.netty4.CodecUtil.encodeObjectToBytes(CodecUtil.java:25)
+	at com.weibo.api.motan.transport.netty4.NettyChannelHandler.sendResponse(NettyChannelHandler.java:178)
+	at com.weibo.api.motan.transport.netty4.NettyChannelHandler.processMessage(NettyChannelHandler.java:118)
+	at com.weibo.api.motan.transport.netty4.NettyChannelHandler.access$000(NettyChannelHandler.java:32)
+	at com.weibo.api.motan.transport.netty4.NettyChannelHandler$1.run(NettyChannelHandler.java:73)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: java.lang.RuntimeException: Serialized class com.sun.jndi.ldap.LdapCtx must implement java.io.Serializable
+ field: javax.naming.NamingException.resolvedObj
+ class: javax.naming.NamingException (object=javax.naming.NamingException: problem generating object using object factory [Root exception is java.lang.ClassCastException: exp cannot be cast to javax.naming.spi.ObjectFactory]; remaining name 'exp')
+ field: java.lang.Throwable.cause
+ class: org.springframework.beans.factory.BeanDefinitionStoreException (object=org.springframework.beans.factory.BeanDefinitionStoreException: Invalid bean definition with name 'ldap://120.77.180.97:8817/exp' defined in JNDI environment: JNDI lookup failed; nested exception is javax.naming.NamingException: problem generating object using object factory [Root exception is java.lang.ClassCastException: exp cannot be cast to javax.naming.spi.ObjectFactory]; remaining name 'exp')
+ field: java.lang.Throwable.cause
+ class: com.weibo.api.motan.exception.MotanFrameworkException (object=com.weibo.api.motan.exception.MotanFrameworkException: error_message: decode error: isResponse=false, status: 503, error_code: 20003,r=null)
+	at com.caucho.hessian.io.JavaSerializer.writeInstance(JavaSerializer.java:294)
+	at com.caucho.hessian.io.JavaSerializer.writeObject(JavaSerializer.java:253)
+	at com.caucho.hessian.io.ThrowableSerializer.writeObject(ThrowableSerializer.java:70)
+	at com.caucho.hessian.io.Hessian2Output.writeObject(Hessian2Output.java:465)
+	at com.weibo.api.motan.serialize.Hessian2Serialization.serialize(Hessian2Serialization.java:42)
+	at com.weibo.api.motan.codec.AbstractCodec.serialize(AbstractCodec.java:44)
+	at com.weibo.api.motan.protocol.rpc.DefaultRpcCodec.encodeResponse(DefaultRpcCodec.java:226)
+	at com.weibo.api.motan.protocol.rpc.DefaultRpcCodec.encode(DefaultRpcCodec.java:57)
+	... 9 more
+Caused by: java.lang.RuntimeException: Serialized class com.sun.jndi.ldap.LdapCtx must implement java.io.Serializable
+ field: javax.naming.NamingException.resolvedObj
+ class: javax.naming.NamingException (object=javax.naming.NamingException: problem generating object using object factory [Root exception is java.lang.ClassCastException: exp cannot be cast to javax.naming.spi.ObjectFactory]; remaining name 'exp')
+ field: java.lang.Throwable.cause
+ class: org.springframework.beans.factory.BeanDefinitionStoreException (object=org.springframework.beans.factory.BeanDefinitionStoreException: Invalid bean definition with name 'ldap://120.77.180.97:8817/exp' defined in JNDI environment: JNDI lookup failed; nested exception is javax.naming.NamingException: problem generating object using object factory [Root exception is java.lang.ClassCastException: exp cannot be cast to javax.naming.spi.ObjectFactory]; remaining name 'exp')
+ field: java.lang.Throwable.cause
+	at com.caucho.hessian.io.JavaSerializer$FieldSerializer.serialize(JavaSerializer.java:354)
+	at com.caucho.hessian.io.JavaSerializer.writeInstance(JavaSerializer.java:291)
+	... 16 more
+Caused by: java.lang.RuntimeException: Serialized class com.sun.jndi.ldap.LdapCtx must implement java.io.Serializable
+ field: javax.naming.NamingException.resolvedObj
+ class: javax.naming.NamingException (object=javax.naming.NamingException: problem generating object using object factory [Root exception is java.lang.ClassCastException: exp cannot be cast to javax.naming.spi.ObjectFactory]; remaining name 'exp')
+ field: java.lang.Throwable.cause
+ class: org.springframework.beans.factory.BeanDefinitionStoreException (object=org.springframework.beans.factory.BeanDefinitionStoreException: Invalid bean definition with name 'ldap://120.77.180.97:8817/exp' defined in JNDI environment: JNDI lookup failed; nested exception is javax.naming.NamingException: problem generating object using object factory [Root exception is java.lang.ClassCastException: exp cannot be cast to javax.naming.spi.ObjectFactory]; remaining name 'exp')
+	at com.caucho.hessian.io.JavaSerializer.writeInstance(JavaSerializer.java:294)
+	at com.caucho.hessian.io.JavaSerializer.writeObject(JavaSerializer.java:253)
+	at com.caucho.hessian.io.ThrowableSerializer.writeObject(ThrowableSerializer.java:70)
+	at com.caucho.hessian.io.Hessian2Output.writeObject(Hessian2Output.java:465)
+	at com.caucho.hessian.io.JavaSerializer$FieldSerializer.serialize(JavaSerializer.java:352)
+	... 17 more
+Caused by: java.lang.RuntimeException: Serialized class com.sun.jndi.ldap.LdapCtx must implement java.io.Serializable
+ field: javax.naming.NamingException.resolvedObj
+ class: javax.naming.NamingException (object=javax.naming.NamingException: problem generating object using object factory [Root exception is java.lang.ClassCastException: exp cannot be cast to javax.naming.spi.ObjectFactory]; remaining name 'exp')
+ field: java.lang.Throwable.cause
+	at com.caucho.hessian.io.JavaSerializer$FieldSerializer.serialize(JavaSerializer.java:354)
+	at com.caucho.hessian.io.JavaSerializer.writeInstance(JavaSerializer.java:291)
+	... 21 more
+Caused by: java.lang.RuntimeException: Serialized class com.sun.jndi.ldap.LdapCtx must implement java.io.Serializable
+ field: javax.naming.NamingException.resolvedObj
+ class: javax.naming.NamingException (object=javax.naming.NamingException: problem generating object using object factory [Root exception is java.lang.ClassCastException: exp cannot be cast to javax.naming.spi.ObjectFactory]; remaining name 'exp')
+	at com.caucho.hessian.io.JavaSerializer.writeInstance(JavaSerializer.java:294)
+	at com.caucho.hessian.io.JavaSerializer.writeObject(JavaSerializer.java:253)
+	at com.caucho.hessian.io.ThrowableSerializer.writeObject(ThrowableSerializer.java:70)
+	at com.caucho.hessian.io.Hessian2Output.writeObject(Hessian2Output.java:465)
+	at com.caucho.hessian.io.JavaSerializer$FieldSerializer.serialize(JavaSerializer.java:352)
+	... 22 more
+Caused by: java.lang.RuntimeException: Serialized class com.sun.jndi.ldap.LdapCtx must implement java.io.Serializable
+ field: javax.naming.NamingException.resolvedObj
+	at com.caucho.hessian.io.JavaSerializer$FieldSerializer.serialize(JavaSerializer.java:354)
+	at com.caucho.hessian.io.JavaSerializer.writeInstance(JavaSerializer.java:291)
+	... 26 more
+Caused by: java.lang.IllegalStateException: Serialized class com.sun.jndi.ldap.LdapCtx must implement java.io.Serializable
+	at com.caucho.hessian.io.SerializerFactory.getDefaultSerializer(SerializerFactory.java:353)
+	at com.caucho.hessian.io.SerializerFactory.loadSerializer(SerializerFactory.java:334)
+	at com.caucho.hessian.io.SerializerFactory.getSerializer(SerializerFactory.java:234)
+	at com.caucho.hessian.io.SerializerFactory.getObjectSerializer(SerializerFactory.java:206)
+	at com.caucho.hessian.io.Hessian2Output.writeObject(Hessian2Output.java:462)
+	at com.caucho.hessian.io.JavaSerializer$FieldSerializer.serialize(JavaSerializer.java:352)
+	... 27 more
