@@ -1,5 +1,8 @@
 
-# Motan-rce
+# Motan/dubbo-rce
+
+## 前言
+将Motan远程代码执行poc封装进threedr3am/learnjavabug项目中
 
 ## 快速利用
 
