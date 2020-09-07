@@ -1,0 +1,102 @@
+2020-09-06 22:32:14 [INFO] AllSpiInitialization init.
+2020-09-06 22:32:14 [INFO] AllSpiInitialization init finish.
+2020-09-06 22:32:14 [INFO] ShutdownHook is initialized
+2020-09-06 22:32:14 [INFO] add resource class com.weibo.api.motan.util.StatsUtil$2 to list
+2020-09-06 22:32:14 [INFO] init compress codec
+2020-09-06 22:32:14 [INFO] add method sign:rena240449f037f4, methodinfo:MethodInfo [group=motan-demo-rpc, interfaceName=com.weibo.motan.demo.service.MotanDemoService, methodName=rename, paramtersDesc=com.weibo.motan.demo.service.model.User,java.lang.String, version=1.0]
+2020-09-06 22:32:14 [INFO] add method sign:comm60aa98d3d542, methodinfo:MethodInfo [group=motan-demo-rpc, interfaceName=com.weibo.motan.demo.service.MotanDemoService, methodName=commonTest, paramtersDesc=java.lang.Object, version=1.0]
+2020-09-06 22:32:14 [INFO] add method sign:hell817ff3733269, methodinfo:MethodInfo [group=motan-demo-rpc, interfaceName=com.weibo.motan.demo.service.MotanDemoService, methodName=hello, paramtersDesc=java.lang.String, version=1.0]
+2020-09-06 22:32:14 [INFO] RequestRouter addProvider: url=motan://192.168.43.55:8001/com.weibo.motan.demo.service.MotanDemoService?group=motan-demo-rpc all_public_method_count=3
+2020-09-06 22:32:14 [INFO] add resource class com.weibo.api.motan.transport.support.HeartbeatClientEndpointManager$2 to list
+2020-09-06 22:32:14 [INFO] NettyEndpointFactory create share_channel server: url=motan://192.168.43.55:8001/com.weibo.motan.demo.service.MotanDemoService?group=motan-demo-rpc
+2020-09-06 22:32:14 [INFO] NettyServer ServerChannel start Open: url=motan://192.168.43.55:8001/?group=motan-demo-rpc
+2020-09-06 22:32:15 [INFO] NettyServer ServerChannel finish Open: url=motan://192.168.43.55:8001/?group=motan-demo-rpc
+2020-09-06 22:32:15 [INFO] DefaultRpcExporter node init Success: [DefaultRpcExporter] url=motan://192.168.43.55:8001/com.weibo.motan.demo.service.MotanDemoService?group=motan-demo-rpc
+2020-09-06 22:32:15 [INFO] DefaultRpcProtocol export Success: url=motan://192.168.43.55:8001/com.weibo.motan.demo.service.MotanDemoService?group=motan-demo-rpc
+2020-09-06 22:32:15 [INFO] [LocalRegistryService] Url (motan://192.168.43.55:8001/com.weibo.motan.demo.service.MotanDemoService?group=motan-demo-rpc) will register to Registry [local://127.0.0.1:0/default_rpc/com.weibo.api.motan.registry.RegistryService/1.0/service]
+2020-09-06 22:32:15 [INFO] LocalRegistryService register: url=motan://192.168.43.55:8001/com.weibo.motan.demo.service.MotanDemoService?group=motan-demo-rpc
+2020-09-06 22:32:15 [INFO] add method sign:rena240449f037f4, methodinfo:MethodInfo [group=motan-demo-rpc, interfaceName=com.weibo.motan.demo.service.MotanDemoService, methodName=rename, paramtersDesc=com.weibo.motan.demo.service.model.User,java.lang.String, version=1.0]
+2020-09-06 22:32:15 [INFO] add method sign:comm60aa98d3d542, methodinfo:MethodInfo [group=motan-demo-rpc, interfaceName=com.weibo.motan.demo.service.MotanDemoService, methodName=commonTest, paramtersDesc=java.lang.Object, version=1.0]
+2020-09-06 22:32:15 [INFO] add method sign:hell817ff3733269, methodinfo:MethodInfo [group=motan-demo-rpc, interfaceName=com.weibo.motan.demo.service.MotanDemoService, methodName=hello, paramtersDesc=java.lang.String, version=1.0]
+2020-09-06 22:32:15 [INFO] RequestRouter addProvider: url=motan://192.168.43.55:8002/com.weibo.motan.demo.service.MotanDemoService?group=motan-demo-rpc all_public_method_count=3
+2020-09-06 22:32:15 [INFO] NettyEndpointFactory create share_channel server: url=motan://192.168.43.55:8002/com.weibo.motan.demo.service.MotanDemoService?group=motan-demo-rpc
+2020-09-06 22:32:15 [INFO] NettyServer ServerChannel start Open: url=motan://192.168.43.55:8002/?group=motan-demo-rpc
+2020-09-06 22:32:15 [INFO] NettyServer ServerChannel finish Open: url=motan://192.168.43.55:8002/?group=motan-demo-rpc
+2020-09-06 22:32:15 [INFO] DefaultRpcExporter node init Success: [DefaultRpcExporter] url=motan://192.168.43.55:8002/com.weibo.motan.demo.service.MotanDemoService?group=motan-demo-rpc
+2020-09-06 22:32:15 [INFO] DefaultRpcProtocol export Success: url=motan://192.168.43.55:8002/com.weibo.motan.demo.service.MotanDemoService?group=motan-demo-rpc
+2020-09-06 22:32:15 [INFO] [LocalRegistryService] Url (motan://192.168.43.55:8002/com.weibo.motan.demo.service.MotanDemoService?group=motan-demo-rpc) will register to Registry [local://127.0.0.1:0/default_rpc/com.weibo.api.motan.registry.RegistryService/1.0/service]
+2020-09-06 22:32:15 [INFO] LocalRegistryService register: url=motan://192.168.43.55:8002/com.weibo.motan.demo.service.MotanDemoService?group=motan-demo-rpc
+2020-09-06 22:32:15 [INFO] [LocalRegistryService] Url (null) will set to available to Registry [local://127.0.0.1:0/default_rpc/com.weibo.api.motan.registry.RegistryService/1.0/service]
+2020-09-06 22:32:28 [INFO] NettyChannelHandler channelActive: remote=/127.0.0.1:60001 local=/127.0.0.1:8002
+2020-09-06 22:32:28 [INFO] NettyChannelHandler channelActive: remote=/127.0.0.1:59998 local=/127.0.0.1:8002
+2020-09-06 22:32:28 [INFO] NettyChannelHandler channelActive: remote=/127.0.0.1:60000 local=/127.0.0.1:8002
+2020-09-06 22:32:28 [INFO] NettyChannelHandler channelActive: remote=/127.0.0.1:59999 local=/127.0.0.1:8002
+2020-09-06 22:32:28 [INFO] NettyChannelHandler channelActive: remote=/127.0.0.1:60002 local=/127.0.0.1:8002
+2020-09-06 22:32:28 [INFO] NettyChannelHandler channelActive: remote=/127.0.0.1:60003 local=/127.0.0.1:8002
+2020-09-06 22:32:28 [INFO] NettyChannelHandler channelActive: remote=/127.0.0.1:60004 local=/127.0.0.1:8002
+2020-09-06 22:32:28 [INFO] NettyChannelHandler channelActive: remote=/127.0.0.1:60005 local=/127.0.0.1:8002
+2020-09-06 22:32:29 [INFO] NettyChannelHandler channelInactive: remote=/127.0.0.1:60003 local=/127.0.0.1:8002
+2020-09-06 22:32:29 [INFO] NettyChannelHandler channelInactive: remote=/127.0.0.1:60004 local=/127.0.0.1:8002
+2020-09-06 22:32:29 [INFO] NettyChannelHandler channelInactive: remote=/127.0.0.1:60002 local=/127.0.0.1:8002
+2020-09-06 22:32:29 [INFO] NettyChannelHandler channelInactive: remote=/127.0.0.1:60000 local=/127.0.0.1:8002
+2020-09-06 22:32:29 [INFO] NettyChannelHandler channelInactive: remote=/127.0.0.1:59999 local=/127.0.0.1:8002
+2020-09-06 22:32:29 [INFO] NettyChannelHandler channelInactive: remote=/127.0.0.1:59998 local=/127.0.0.1:8002
+2020-09-06 22:32:29 [INFO] NettyChannelHandler channelInactive: remote=/127.0.0.1:60001 local=/127.0.0.1:8002
+2020-09-06 22:32:29 [INFO] NettyChannelHandler channelInactive: remote=/127.0.0.1:60005 local=/127.0.0.1:8002
+2020-09-06 22:33:16 [INFO] AllSpiInitialization init.
+2020-09-06 22:33:16 [INFO] AllSpiInitialization init finish.
+2020-09-06 22:33:16 [INFO] ShutdownHook is initialized
+2020-09-06 22:33:16 [INFO] add resource class com.weibo.api.motan.util.StatsUtil$2 to list
+2020-09-06 22:33:16 [INFO] init compress codec
+2020-09-06 22:33:16 [INFO] add method sign:rena240449f037f4, methodinfo:MethodInfo [group=motan-demo-rpc, interfaceName=com.weibo.motan.demo.service.MotanDemoService, methodName=rename, paramtersDesc=com.weibo.motan.demo.service.model.User,java.lang.String, version=1.0]
+2020-09-06 22:33:16 [INFO] add method sign:hell817ff3733269, methodinfo:MethodInfo [group=motan-demo-rpc, interfaceName=com.weibo.motan.demo.service.MotanDemoService, methodName=hello, paramtersDesc=java.lang.String, version=1.0]
+2020-09-06 22:33:16 [INFO] add method sign:comm60aa98d3d542, methodinfo:MethodInfo [group=motan-demo-rpc, interfaceName=com.weibo.motan.demo.service.MotanDemoService, methodName=commonTest, paramtersDesc=java.lang.Object, version=1.0]
+2020-09-06 22:33:16 [INFO] RequestRouter addProvider: url=motan://192.168.43.55:8001/com.weibo.motan.demo.service.MotanDemoService?group=motan-demo-rpc all_public_method_count=3
+2020-09-06 22:33:16 [INFO] add resource class com.weibo.api.motan.transport.support.HeartbeatClientEndpointManager$2 to list
+2020-09-06 22:33:16 [INFO] NettyEndpointFactory create share_channel server: url=motan://192.168.43.55:8001/com.weibo.motan.demo.service.MotanDemoService?group=motan-demo-rpc
+2020-09-06 22:33:16 [INFO] NettyServer ServerChannel start Open: url=motan://192.168.43.55:8001/?group=motan-demo-rpc
+2020-09-06 22:33:16 [INFO] NettyServer ServerChannel finish Open: url=motan://192.168.43.55:8001/?group=motan-demo-rpc
+2020-09-06 22:33:16 [INFO] DefaultRpcExporter node init Success: [DefaultRpcExporter] url=motan://192.168.43.55:8001/com.weibo.motan.demo.service.MotanDemoService?group=motan-demo-rpc
+2020-09-06 22:33:16 [INFO] DefaultRpcProtocol export Success: url=motan://192.168.43.55:8001/com.weibo.motan.demo.service.MotanDemoService?group=motan-demo-rpc
+2020-09-06 22:33:16 [INFO] [LocalRegistryService] Url (motan://192.168.43.55:8001/com.weibo.motan.demo.service.MotanDemoService?group=motan-demo-rpc) will register to Registry [local://127.0.0.1:0/default_rpc/com.weibo.api.motan.registry.RegistryService/1.0/service]
+2020-09-06 22:33:16 [INFO] LocalRegistryService register: url=motan://192.168.43.55:8001/com.weibo.motan.demo.service.MotanDemoService?group=motan-demo-rpc
+2020-09-06 22:33:16 [INFO] add method sign:rena240449f037f4, methodinfo:MethodInfo [group=motan-demo-rpc, interfaceName=com.weibo.motan.demo.service.MotanDemoService, methodName=rename, paramtersDesc=com.weibo.motan.demo.service.model.User,java.lang.String, version=1.0]
+2020-09-06 22:33:16 [INFO] add method sign:hell817ff3733269, methodinfo:MethodInfo [group=motan-demo-rpc, interfaceName=com.weibo.motan.demo.service.MotanDemoService, methodName=hello, paramtersDesc=java.lang.String, version=1.0]
+2020-09-06 22:33:16 [INFO] add method sign:comm60aa98d3d542, methodinfo:MethodInfo [group=motan-demo-rpc, interfaceName=com.weibo.motan.demo.service.MotanDemoService, methodName=commonTest, paramtersDesc=java.lang.Object, version=1.0]
+2020-09-06 22:33:16 [INFO] RequestRouter addProvider: url=motan://192.168.43.55:8002/com.weibo.motan.demo.service.MotanDemoService?group=motan-demo-rpc all_public_method_count=3
+2020-09-06 22:33:16 [INFO] NettyEndpointFactory create share_channel server: url=motan://192.168.43.55:8002/com.weibo.motan.demo.service.MotanDemoService?group=motan-demo-rpc
+2020-09-06 22:33:16 [INFO] NettyServer ServerChannel start Open: url=motan://192.168.43.55:8002/?group=motan-demo-rpc
+2020-09-06 22:33:16 [INFO] NettyServer ServerChannel finish Open: url=motan://192.168.43.55:8002/?group=motan-demo-rpc
+2020-09-06 22:33:16 [INFO] DefaultRpcExporter node init Success: [DefaultRpcExporter] url=motan://192.168.43.55:8002/com.weibo.motan.demo.service.MotanDemoService?group=motan-demo-rpc
+2020-09-06 22:33:16 [INFO] DefaultRpcProtocol export Success: url=motan://192.168.43.55:8002/com.weibo.motan.demo.service.MotanDemoService?group=motan-demo-rpc
+2020-09-06 22:33:16 [INFO] [LocalRegistryService] Url (motan://192.168.43.55:8002/com.weibo.motan.demo.service.MotanDemoService?group=motan-demo-rpc) will register to Registry [local://127.0.0.1:0/default_rpc/com.weibo.api.motan.registry.RegistryService/1.0/service]
+2020-09-06 22:33:16 [INFO] LocalRegistryService register: url=motan://192.168.43.55:8002/com.weibo.motan.demo.service.MotanDemoService?group=motan-demo-rpc
+2020-09-06 22:33:16 [INFO] [LocalRegistryService] Url (null) will set to available to Registry [local://127.0.0.1:0/default_rpc/com.weibo.api.motan.registry.RegistryService/1.0/service]
+2020-09-06 22:33:31 [INFO] NettyChannelHandler channelActive: remote=/127.0.0.1:60040 local=/127.0.0.1:8002
+2020-09-06 22:33:31 [INFO] NettyChannelHandler channelActive: remote=/127.0.0.1:60042 local=/127.0.0.1:8002
+2020-09-06 22:33:31 [INFO] NettyChannelHandler channelActive: remote=/127.0.0.1:60041 local=/127.0.0.1:8002
+2020-09-06 22:33:31 [INFO] NettyChannelHandler channelActive: remote=/127.0.0.1:60043 local=/127.0.0.1:8002
+2020-09-06 22:33:31 [INFO] NettyChannelHandler channelActive: remote=/127.0.0.1:60044 local=/127.0.0.1:8002
+2020-09-06 22:33:31 [INFO] NettyChannelHandler channelActive: remote=/127.0.0.1:60045 local=/127.0.0.1:8002
+2020-09-06 22:33:31 [INFO] NettyChannelHandler channelActive: remote=/127.0.0.1:60047 local=/127.0.0.1:8002
+2020-09-06 22:33:31 [INFO] NettyChannelHandler channelActive: remote=/127.0.0.1:60046 local=/127.0.0.1:8002
+2020-09-06 22:43:16 [INFO] NettyChannelHandler channelActive: remote=/127.0.0.1:60353 local=/127.0.0.1:8002
+2020-09-06 22:43:16 [INFO] NettyChannelHandler channelInactive: remote=/127.0.0.1:60353 local=/127.0.0.1:8002
+2020-09-06 22:45:28 [INFO] NettyChannelHandler channelInactive: remote=/127.0.0.1:60043 local=/127.0.0.1:8002
+2020-09-06 22:45:28 [INFO] NettyChannelHandler channelInactive: remote=/127.0.0.1:60044 local=/127.0.0.1:8002
+2020-09-06 22:45:28 [INFO] NettyChannelHandler channelInactive: remote=/127.0.0.1:60045 local=/127.0.0.1:8002
+2020-09-06 22:45:28 [INFO] NettyChannelHandler channelInactive: remote=/127.0.0.1:60041 local=/127.0.0.1:8002
+2020-09-06 22:45:28 [INFO] NettyChannelHandler channelInactive: remote=/127.0.0.1:60042 local=/127.0.0.1:8002
+2020-09-06 22:45:28 [INFO] NettyChannelHandler channelInactive: remote=/127.0.0.1:60040 local=/127.0.0.1:8002
+2020-09-06 22:45:28 [INFO] NettyChannelHandler channelInactive: remote=/127.0.0.1:60047 local=/127.0.0.1:8002
+2020-09-06 22:45:28 [INFO] NettyChannelHandler channelInactive: remote=/127.0.0.1:60046 local=/127.0.0.1:8002
+2020-09-06 22:45:37 [INFO] NettyChannelHandler channelActive: remote=/127.0.0.1:60404 local=/127.0.0.1:8002
+2020-09-06 22:45:37 [INFO] NettyChannelHandler channelActive: remote=/127.0.0.1:60405 local=/127.0.0.1:8002
+2020-09-06 22:45:37 [INFO] NettyChannelHandler channelActive: remote=/127.0.0.1:60406 local=/127.0.0.1:8002
+2020-09-06 22:45:37 [INFO] NettyChannelHandler channelActive: remote=/127.0.0.1:60407 local=/127.0.0.1:8002
+2020-09-06 22:45:37 [INFO] NettyChannelHandler channelActive: remote=/127.0.0.1:60408 local=/127.0.0.1:8002
+2020-09-06 22:45:37 [INFO] NettyChannelHandler channelActive: remote=/127.0.0.1:60409 local=/127.0.0.1:8002
+2020-09-06 22:45:37 [INFO] NettyChannelHandler channelActive: remote=/127.0.0.1:60410 local=/127.0.0.1:8002
+2020-09-06 22:45:37 [INFO] NettyChannelHandler channelActive: remote=/127.0.0.1:60411 local=/127.0.0.1:8002
+2020-09-06 22:46:48 [INFO] NettyChannelHandler channelActive: remote=/127.0.0.1:60447 local=/127.0.0.1:8002
+2020-09-06 22:46:48 [INFO] NettyChannelHandler channelInactive: remote=/127.0.0.1:60447 local=/127.0.0.1:8002

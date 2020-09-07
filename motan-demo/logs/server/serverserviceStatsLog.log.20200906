@@ -1,0 +1,496 @@
+22:33:46 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+22:33:46 [motan-memoryStatistic] 17.03MB of 7282.00 MB (0.2%) used 
+22:33:46 [motan-statisticCallback] identity: motan://192.168.43.55:8001/motan-demo-rpc//1.0/service connectionCount: 0 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+22:33:46 [motan-statisticCallback] identity: motan://192.168.43.55:8002/motan-demo-rpc//1.0/service connectionCount: 8 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+22:34:16 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+22:34:16 [motan-memoryStatistic] 17.03MB of 7282.00 MB (0.2%) used 
+22:34:16 [motan-statisticCallback] identity: motan://192.168.43.55:8001/motan-demo-rpc//1.0/service connectionCount: 0 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+22:34:16 [motan-statisticCallback] identity: motan://192.168.43.55:8002/motan-demo-rpc//1.0/service connectionCount: 8 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+22:34:46 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+22:34:46 [motan-memoryStatistic] 17.04MB of 7282.00 MB (0.2%) used 
+22:34:46 [motan-statisticCallback] identity: motan://192.168.43.55:8001/motan-demo-rpc//1.0/service connectionCount: 0 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+22:34:46 [motan-statisticCallback] identity: motan://192.168.43.55:8002/motan-demo-rpc//1.0/service connectionCount: 8 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+22:35:16 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+22:35:16 [motan-memoryStatistic] 17.04MB of 7282.00 MB (0.2%) used 
+22:35:16 [motan-statisticCallback] identity: motan://192.168.43.55:8001/motan-demo-rpc//1.0/service connectionCount: 0 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+22:35:16 [motan-statisticCallback] identity: motan://192.168.43.55:8002/motan-demo-rpc//1.0/service connectionCount: 8 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+22:35:46 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+22:35:46 [motan-memoryStatistic] 20.90MB of 7282.00 MB (0.3%) used 
+22:35:46 [motan-statisticCallback] identity: motan://192.168.43.55:8001/motan-demo-rpc//1.0/service connectionCount: 0 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+22:35:46 [motan-statisticCallback] identity: motan://192.168.43.55:8002/motan-demo-rpc//1.0/service connectionCount: 8 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+22:36:16 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+22:36:16 [motan-memoryStatistic] 20.90MB of 7282.00 MB (0.3%) used 
+22:36:16 [motan-statisticCallback] identity: motan://192.168.43.55:8001/motan-demo-rpc//1.0/service connectionCount: 0 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+22:36:16 [motan-statisticCallback] identity: motan://192.168.43.55:8002/motan-demo-rpc//1.0/service connectionCount: 8 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+22:36:46 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+22:36:46 [motan-memoryStatistic] 20.90MB of 7282.00 MB (0.3%) used 
+22:36:46 [motan-statisticCallback] identity: motan://192.168.43.55:8001/motan-demo-rpc//1.0/service connectionCount: 0 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+22:36:46 [motan-statisticCallback] identity: motan://192.168.43.55:8002/motan-demo-rpc//1.0/service connectionCount: 8 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+22:37:16 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+22:37:16 [motan-memoryStatistic] 22.18MB of 7282.00 MB (0.3%) used 
+22:37:16 [motan-statisticCallback] identity: motan://192.168.43.55:8001/motan-demo-rpc//1.0/service connectionCount: 0 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+22:37:16 [motan-statisticCallback] identity: motan://192.168.43.55:8002/motan-demo-rpc//1.0/service connectionCount: 8 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+22:37:46 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+22:37:46 [motan-memoryStatistic] 22.18MB of 7282.00 MB (0.3%) used 
+22:37:46 [motan-statisticCallback] identity: motan://192.168.43.55:8001/motan-demo-rpc//1.0/service connectionCount: 0 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+22:37:46 [motan-statisticCallback] identity: motan://192.168.43.55:8002/motan-demo-rpc//1.0/service connectionCount: 8 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+22:38:16 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+22:38:16 [motan-memoryStatistic] 22.18MB of 7282.00 MB (0.3%) used 
+22:38:16 [motan-statisticCallback] identity: motan://192.168.43.55:8001/motan-demo-rpc//1.0/service connectionCount: 0 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+22:38:16 [motan-statisticCallback] identity: motan://192.168.43.55:8002/motan-demo-rpc//1.0/service connectionCount: 8 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+22:38:46 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+22:38:46 [motan-memoryStatistic] 23.47MB of 7282.00 MB (0.3%) used 
+22:38:46 [motan-statisticCallback] identity: motan://192.168.43.55:8001/motan-demo-rpc//1.0/service connectionCount: 0 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+22:38:46 [motan-statisticCallback] identity: motan://192.168.43.55:8002/motan-demo-rpc//1.0/service connectionCount: 8 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+22:39:16 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+22:39:16 [motan-memoryStatistic] 23.47MB of 7282.00 MB (0.3%) used 
+22:39:16 [motan-statisticCallback] identity: motan://192.168.43.55:8001/motan-demo-rpc//1.0/service connectionCount: 0 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+22:39:16 [motan-statisticCallback] identity: motan://192.168.43.55:8002/motan-demo-rpc//1.0/service connectionCount: 8 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+22:39:46 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+22:39:46 [motan-memoryStatistic] 23.47MB of 7282.00 MB (0.3%) used 
+22:39:46 [motan-statisticCallback] identity: motan://192.168.43.55:8001/motan-demo-rpc//1.0/service connectionCount: 0 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+22:39:46 [motan-statisticCallback] identity: motan://192.168.43.55:8002/motan-demo-rpc//1.0/service connectionCount: 8 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+22:40:16 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+22:40:16 [motan-memoryStatistic] 23.47MB of 7282.00 MB (0.3%) used 
+22:40:16 [motan-statisticCallback] identity: motan://192.168.43.55:8001/motan-demo-rpc//1.0/service connectionCount: 0 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+22:40:16 [motan-statisticCallback] identity: motan://192.168.43.55:8002/motan-demo-rpc//1.0/service connectionCount: 8 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+22:40:46 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+22:40:46 [motan-memoryStatistic] 23.47MB of 7282.00 MB (0.3%) used 
+22:40:46 [motan-statisticCallback] identity: motan://192.168.43.55:8001/motan-demo-rpc//1.0/service connectionCount: 0 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+22:40:46 [motan-statisticCallback] identity: motan://192.168.43.55:8002/motan-demo-rpc//1.0/service connectionCount: 8 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+22:41:16 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+22:41:16 [motan-memoryStatistic] 23.47MB of 7282.00 MB (0.3%) used 
+22:41:16 [motan-statisticCallback] identity: motan://192.168.43.55:8001/motan-demo-rpc//1.0/service connectionCount: 0 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+22:41:16 [motan-statisticCallback] identity: motan://192.168.43.55:8002/motan-demo-rpc//1.0/service connectionCount: 8 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+22:41:46 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+22:41:46 [motan-memoryStatistic] 23.47MB of 7282.00 MB (0.3%) used 
+22:41:46 [motan-statisticCallback] identity: motan://192.168.43.55:8001/motan-demo-rpc//1.0/service connectionCount: 0 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+22:41:46 [motan-statisticCallback] identity: motan://192.168.43.55:8002/motan-demo-rpc//1.0/service connectionCount: 8 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+22:42:16 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+22:42:16 [motan-memoryStatistic] 23.47MB of 7282.00 MB (0.3%) used 
+22:42:16 [motan-statisticCallback] identity: motan://192.168.43.55:8001/motan-demo-rpc//1.0/service connectionCount: 0 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+22:42:16 [motan-statisticCallback] identity: motan://192.168.43.55:8002/motan-demo-rpc//1.0/service connectionCount: 8 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+22:42:46 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+22:42:46 [motan-memoryStatistic] 23.47MB of 7282.00 MB (0.3%) used 
+22:42:46 [motan-statisticCallback] identity: motan://192.168.43.55:8001/motan-demo-rpc//1.0/service connectionCount: 0 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+22:42:46 [motan-statisticCallback] identity: motan://192.168.43.55:8002/motan-demo-rpc//1.0/service connectionCount: 8 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+22:43:16 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+22:43:16 [motan-memoryStatistic] 23.47MB of 7282.00 MB (0.3%) used 
+22:43:16 [motan-statisticCallback] identity: motan://192.168.43.55:8001/motan-demo-rpc//1.0/service connectionCount: 0 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+22:43:16 [motan-statisticCallback] identity: motan://192.168.43.55:8002/motan-demo-rpc//1.0/service connectionCount: 8 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+22:43:46 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+22:43:46 [motan-memoryStatistic] 32.34MB of 7282.00 MB (0.4%) used 
+22:43:46 [motan-statisticCallback] identity: motan://192.168.43.55:8001/motan-demo-rpc//1.0/service connectionCount: 0 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+22:43:46 [motan-statisticCallback] identity: motan://192.168.43.55:8002/motan-demo-rpc//1.0/service connectionCount: 8 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+22:44:16 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+22:44:16 [motan-memoryStatistic] 36.20MB of 7282.00 MB (0.5%) used 
+22:44:16 [motan-statisticCallback] identity: motan://192.168.43.55:8001/motan-demo-rpc//1.0/service connectionCount: 0 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+22:44:16 [motan-statisticCallback] identity: motan://192.168.43.55:8002/motan-demo-rpc//1.0/service connectionCount: 8 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+22:44:46 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+22:44:46 [motan-memoryStatistic] 36.20MB of 7282.00 MB (0.5%) used 
+22:44:46 [motan-statisticCallback] identity: motan://192.168.43.55:8001/motan-demo-rpc//1.0/service connectionCount: 0 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+22:44:46 [motan-statisticCallback] identity: motan://192.168.43.55:8002/motan-demo-rpc//1.0/service connectionCount: 8 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+22:45:16 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+22:45:16 [motan-memoryStatistic] 36.20MB of 7282.00 MB (0.5%) used 
+22:45:16 [motan-statisticCallback] identity: motan://192.168.43.55:8001/motan-demo-rpc//1.0/service connectionCount: 0 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+22:45:16 [motan-statisticCallback] identity: motan://192.168.43.55:8002/motan-demo-rpc//1.0/service connectionCount: 8 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+22:45:46 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+22:45:46 [motan-memoryStatistic] 45.48MB of 7282.00 MB (0.6%) used 
+22:45:46 [motan-statisticCallback] identity: motan://192.168.43.55:8001/motan-demo-rpc//1.0/service connectionCount: 0 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+22:45:46 [motan-statisticCallback] identity: motan://192.168.43.55:8002/motan-demo-rpc//1.0/service connectionCount: 8 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+22:46:16 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+22:46:16 [motan-memoryStatistic] 45.48MB of 7282.00 MB (0.6%) used 
+22:46:16 [motan-statisticCallback] identity: motan://192.168.43.55:8001/motan-demo-rpc//1.0/service connectionCount: 0 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+22:46:16 [motan-statisticCallback] identity: motan://192.168.43.55:8002/motan-demo-rpc//1.0/service connectionCount: 8 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+22:46:46 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+22:46:46 [motan-memoryStatistic] 45.48MB of 7282.00 MB (0.6%) used 
+22:46:46 [motan-statisticCallback] identity: motan://192.168.43.55:8001/motan-demo-rpc//1.0/service connectionCount: 0 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+22:46:46 [motan-statisticCallback] identity: motan://192.168.43.55:8002/motan-demo-rpc//1.0/service connectionCount: 8 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+22:47:16 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+22:47:16 [motan-memoryStatistic] 48.62MB of 7282.00 MB (0.7%) used 
+22:47:16 [motan-statisticCallback] identity: motan://192.168.43.55:8001/motan-demo-rpc//1.0/service connectionCount: 0 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+22:47:16 [motan-statisticCallback] identity: motan://192.168.43.55:8002/motan-demo-rpc//1.0/service connectionCount: 8 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+22:47:46 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+22:47:46 [motan-memoryStatistic] 48.62MB of 7282.00 MB (0.7%) used 
+22:47:46 [motan-statisticCallback] identity: motan://192.168.43.55:8001/motan-demo-rpc//1.0/service connectionCount: 0 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+22:47:46 [motan-statisticCallback] identity: motan://192.168.43.55:8002/motan-demo-rpc//1.0/service connectionCount: 8 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+22:48:16 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+22:48:16 [motan-memoryStatistic] 48.62MB of 7282.00 MB (0.7%) used 
+22:48:16 [motan-statisticCallback] identity: motan://192.168.43.55:8001/motan-demo-rpc//1.0/service connectionCount: 0 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+22:48:16 [motan-statisticCallback] identity: motan://192.168.43.55:8002/motan-demo-rpc//1.0/service connectionCount: 8 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+22:48:46 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+22:48:46 [motan-memoryStatistic] 48.62MB of 7282.00 MB (0.7%) used 
+22:48:46 [motan-statisticCallback] identity: motan://192.168.43.55:8001/motan-demo-rpc//1.0/service connectionCount: 0 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+22:48:46 [motan-statisticCallback] identity: motan://192.168.43.55:8002/motan-demo-rpc//1.0/service connectionCount: 8 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+22:49:16 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+22:49:16 [motan-memoryStatistic] 48.62MB of 7282.00 MB (0.7%) used 
+22:49:16 [motan-statisticCallback] identity: motan://192.168.43.55:8001/motan-demo-rpc//1.0/service connectionCount: 0 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+22:49:16 [motan-statisticCallback] identity: motan://192.168.43.55:8002/motan-demo-rpc//1.0/service connectionCount: 8 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+22:49:46 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+22:49:46 [motan-memoryStatistic] 48.62MB of 7282.00 MB (0.7%) used 
+22:49:46 [motan-statisticCallback] identity: motan://192.168.43.55:8001/motan-demo-rpc//1.0/service connectionCount: 0 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+22:49:46 [motan-statisticCallback] identity: motan://192.168.43.55:8002/motan-demo-rpc//1.0/service connectionCount: 8 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+22:50:16 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+22:50:16 [motan-memoryStatistic] 48.62MB of 7282.00 MB (0.7%) used 
+22:50:16 [motan-statisticCallback] identity: motan://192.168.43.55:8001/motan-demo-rpc//1.0/service connectionCount: 0 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+22:50:16 [motan-statisticCallback] identity: motan://192.168.43.55:8002/motan-demo-rpc//1.0/service connectionCount: 8 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+22:50:46 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+22:50:46 [motan-memoryStatistic] 48.62MB of 7282.00 MB (0.7%) used 
+22:50:46 [motan-statisticCallback] identity: motan://192.168.43.55:8001/motan-demo-rpc//1.0/service connectionCount: 0 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+22:50:46 [motan-statisticCallback] identity: motan://192.168.43.55:8002/motan-demo-rpc//1.0/service connectionCount: 8 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+22:51:16 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+22:51:16 [motan-memoryStatistic] 48.62MB of 7282.00 MB (0.7%) used 
+22:51:16 [motan-statisticCallback] identity: motan://192.168.43.55:8001/motan-demo-rpc//1.0/service connectionCount: 0 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+22:51:16 [motan-statisticCallback] identity: motan://192.168.43.55:8002/motan-demo-rpc//1.0/service connectionCount: 8 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+22:51:46 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+22:51:46 [motan-memoryStatistic] 48.62MB of 7282.00 MB (0.7%) used 
+22:51:46 [motan-statisticCallback] identity: motan://192.168.43.55:8001/motan-demo-rpc//1.0/service connectionCount: 0 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+22:51:46 [motan-statisticCallback] identity: motan://192.168.43.55:8002/motan-demo-rpc//1.0/service connectionCount: 8 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+22:52:16 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+22:52:16 [motan-memoryStatistic] 48.62MB of 7282.00 MB (0.7%) used 
+22:52:16 [motan-statisticCallback] identity: motan://192.168.43.55:8001/motan-demo-rpc//1.0/service connectionCount: 0 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+22:52:16 [motan-statisticCallback] identity: motan://192.168.43.55:8002/motan-demo-rpc//1.0/service connectionCount: 8 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+22:52:46 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+22:52:46 [motan-memoryStatistic] 48.62MB of 7282.00 MB (0.7%) used 
+22:52:46 [motan-statisticCallback] identity: motan://192.168.43.55:8001/motan-demo-rpc//1.0/service connectionCount: 0 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+22:52:46 [motan-statisticCallback] identity: motan://192.168.43.55:8002/motan-demo-rpc//1.0/service connectionCount: 8 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+22:53:16 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+22:53:16 [motan-memoryStatistic] 48.62MB of 7282.00 MB (0.7%) used 
+22:53:16 [motan-statisticCallback] identity: motan://192.168.43.55:8001/motan-demo-rpc//1.0/service connectionCount: 0 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+22:53:16 [motan-statisticCallback] identity: motan://192.168.43.55:8002/motan-demo-rpc//1.0/service connectionCount: 8 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+22:53:46 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+22:53:46 [motan-memoryStatistic] 48.62MB of 7282.00 MB (0.7%) used 
+22:53:46 [motan-statisticCallback] identity: motan://192.168.43.55:8001/motan-demo-rpc//1.0/service connectionCount: 0 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+22:53:46 [motan-statisticCallback] identity: motan://192.168.43.55:8002/motan-demo-rpc//1.0/service connectionCount: 8 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+22:54:16 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+22:54:16 [motan-memoryStatistic] 48.62MB of 7282.00 MB (0.7%) used 
+22:54:16 [motan-statisticCallback] identity: motan://192.168.43.55:8001/motan-demo-rpc//1.0/service connectionCount: 0 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+22:54:16 [motan-statisticCallback] identity: motan://192.168.43.55:8002/motan-demo-rpc//1.0/service connectionCount: 8 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+22:54:46 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+22:54:46 [motan-memoryStatistic] 48.62MB of 7282.00 MB (0.7%) used 
+22:54:46 [motan-statisticCallback] identity: motan://192.168.43.55:8001/motan-demo-rpc//1.0/service connectionCount: 0 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+22:54:46 [motan-statisticCallback] identity: motan://192.168.43.55:8002/motan-demo-rpc//1.0/service connectionCount: 8 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+22:55:16 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+22:55:16 [motan-memoryStatistic] 48.62MB of 7282.00 MB (0.7%) used 
+22:55:16 [motan-statisticCallback] identity: motan://192.168.43.55:8001/motan-demo-rpc//1.0/service connectionCount: 0 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+22:55:16 [motan-statisticCallback] identity: motan://192.168.43.55:8002/motan-demo-rpc//1.0/service connectionCount: 8 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+22:55:46 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+22:55:46 [motan-memoryStatistic] 48.62MB of 7282.00 MB (0.7%) used 
+22:55:46 [motan-statisticCallback] identity: motan://192.168.43.55:8001/motan-demo-rpc//1.0/service connectionCount: 0 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+22:55:46 [motan-statisticCallback] identity: motan://192.168.43.55:8002/motan-demo-rpc//1.0/service connectionCount: 8 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+22:56:16 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+22:56:16 [motan-memoryStatistic] 48.62MB of 7282.00 MB (0.7%) used 
+22:56:16 [motan-statisticCallback] identity: motan://192.168.43.55:8001/motan-demo-rpc//1.0/service connectionCount: 0 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+22:56:16 [motan-statisticCallback] identity: motan://192.168.43.55:8002/motan-demo-rpc//1.0/service connectionCount: 8 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+22:56:46 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+22:56:46 [motan-memoryStatistic] 48.62MB of 7282.00 MB (0.7%) used 
+22:56:46 [motan-statisticCallback] identity: motan://192.168.43.55:8001/motan-demo-rpc//1.0/service connectionCount: 0 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+22:56:46 [motan-statisticCallback] identity: motan://192.168.43.55:8002/motan-demo-rpc//1.0/service connectionCount: 8 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+22:57:16 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+22:57:16 [motan-memoryStatistic] 48.62MB of 7282.00 MB (0.7%) used 
+22:57:16 [motan-statisticCallback] identity: motan://192.168.43.55:8001/motan-demo-rpc//1.0/service connectionCount: 0 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+22:57:16 [motan-statisticCallback] identity: motan://192.168.43.55:8002/motan-demo-rpc//1.0/service connectionCount: 8 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+22:57:46 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+22:57:46 [motan-memoryStatistic] 48.62MB of 7282.00 MB (0.7%) used 
+22:57:46 [motan-statisticCallback] identity: motan://192.168.43.55:8001/motan-demo-rpc//1.0/service connectionCount: 0 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+22:57:46 [motan-statisticCallback] identity: motan://192.168.43.55:8002/motan-demo-rpc//1.0/service connectionCount: 8 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+22:58:16 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+22:58:16 [motan-memoryStatistic] 48.62MB of 7282.00 MB (0.7%) used 
+22:58:16 [motan-statisticCallback] identity: motan://192.168.43.55:8001/motan-demo-rpc//1.0/service connectionCount: 0 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+22:58:16 [motan-statisticCallback] identity: motan://192.168.43.55:8002/motan-demo-rpc//1.0/service connectionCount: 8 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+22:58:46 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+22:58:46 [motan-memoryStatistic] 48.62MB of 7282.00 MB (0.7%) used 
+22:58:46 [motan-statisticCallback] identity: motan://192.168.43.55:8001/motan-demo-rpc//1.0/service connectionCount: 0 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+22:58:46 [motan-statisticCallback] identity: motan://192.168.43.55:8002/motan-demo-rpc//1.0/service connectionCount: 8 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+22:59:16 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+22:59:16 [motan-memoryStatistic] 48.62MB of 7282.00 MB (0.7%) used 
+22:59:16 [motan-statisticCallback] identity: motan://192.168.43.55:8001/motan-demo-rpc//1.0/service connectionCount: 0 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+22:59:16 [motan-statisticCallback] identity: motan://192.168.43.55:8002/motan-demo-rpc//1.0/service connectionCount: 8 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+22:59:46 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+22:59:46 [motan-memoryStatistic] 48.62MB of 7282.00 MB (0.7%) used 
+22:59:46 [motan-statisticCallback] identity: motan://192.168.43.55:8001/motan-demo-rpc//1.0/service connectionCount: 0 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+22:59:46 [motan-statisticCallback] identity: motan://192.168.43.55:8002/motan-demo-rpc//1.0/service connectionCount: 8 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+23:00:16 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:00:16 [motan-memoryStatistic] 48.62MB of 7282.00 MB (0.7%) used 
+23:00:16 [motan-statisticCallback] identity: motan://192.168.43.55:8001/motan-demo-rpc//1.0/service connectionCount: 0 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+23:00:16 [motan-statisticCallback] identity: motan://192.168.43.55:8002/motan-demo-rpc//1.0/service connectionCount: 8 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+23:00:46 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:00:46 [motan-memoryStatistic] 48.62MB of 7282.00 MB (0.7%) used 
+23:00:46 [motan-statisticCallback] identity: motan://192.168.43.55:8001/motan-demo-rpc//1.0/service connectionCount: 0 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+23:00:46 [motan-statisticCallback] identity: motan://192.168.43.55:8002/motan-demo-rpc//1.0/service connectionCount: 8 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+23:01:16 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:01:16 [motan-memoryStatistic] 48.62MB of 7282.00 MB (0.7%) used 
+23:01:16 [motan-statisticCallback] identity: motan://192.168.43.55:8001/motan-demo-rpc//1.0/service connectionCount: 0 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+23:01:16 [motan-statisticCallback] identity: motan://192.168.43.55:8002/motan-demo-rpc//1.0/service connectionCount: 8 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+23:01:46 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:01:46 [motan-memoryStatistic] 48.62MB of 7282.00 MB (0.7%) used 
+23:01:46 [motan-statisticCallback] identity: motan://192.168.43.55:8001/motan-demo-rpc//1.0/service connectionCount: 0 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+23:01:46 [motan-statisticCallback] identity: motan://192.168.43.55:8002/motan-demo-rpc//1.0/service connectionCount: 8 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+23:02:16 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:02:16 [motan-memoryStatistic] 48.62MB of 7282.00 MB (0.7%) used 
+23:02:16 [motan-statisticCallback] identity: motan://192.168.43.55:8001/motan-demo-rpc//1.0/service connectionCount: 0 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+23:02:16 [motan-statisticCallback] identity: motan://192.168.43.55:8002/motan-demo-rpc//1.0/service connectionCount: 8 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+23:02:46 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:02:46 [motan-memoryStatistic] 48.62MB of 7282.00 MB (0.7%) used 
+23:02:46 [motan-statisticCallback] identity: motan://192.168.43.55:8001/motan-demo-rpc//1.0/service connectionCount: 0 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+23:02:46 [motan-statisticCallback] identity: motan://192.168.43.55:8002/motan-demo-rpc//1.0/service connectionCount: 8 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+23:03:16 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:03:16 [motan-memoryStatistic] 49.91MB of 7282.00 MB (0.7%) used 
+23:03:16 [motan-statisticCallback] identity: motan://192.168.43.55:8001/motan-demo-rpc//1.0/service connectionCount: 0 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+23:03:16 [motan-statisticCallback] identity: motan://192.168.43.55:8002/motan-demo-rpc//1.0/service connectionCount: 8 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+23:03:46 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:03:46 [motan-memoryStatistic] 49.91MB of 7282.00 MB (0.7%) used 
+23:03:46 [motan-statisticCallback] identity: motan://192.168.43.55:8001/motan-demo-rpc//1.0/service connectionCount: 0 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+23:03:46 [motan-statisticCallback] identity: motan://192.168.43.55:8002/motan-demo-rpc//1.0/service connectionCount: 8 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+23:04:16 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:04:16 [motan-memoryStatistic] 49.91MB of 7282.00 MB (0.7%) used 
+23:04:16 [motan-statisticCallback] identity: motan://192.168.43.55:8001/motan-demo-rpc//1.0/service connectionCount: 0 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+23:04:16 [motan-statisticCallback] identity: motan://192.168.43.55:8002/motan-demo-rpc//1.0/service connectionCount: 8 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+23:04:46 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:04:46 [motan-memoryStatistic] 49.91MB of 7282.00 MB (0.7%) used 
+23:04:46 [motan-statisticCallback] identity: motan://192.168.43.55:8001/motan-demo-rpc//1.0/service connectionCount: 0 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+23:04:46 [motan-statisticCallback] identity: motan://192.168.43.55:8002/motan-demo-rpc//1.0/service connectionCount: 8 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+23:05:16 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:05:16 [motan-memoryStatistic] 49.91MB of 7282.00 MB (0.7%) used 
+23:05:16 [motan-statisticCallback] identity: motan://192.168.43.55:8001/motan-demo-rpc//1.0/service connectionCount: 0 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+23:05:16 [motan-statisticCallback] identity: motan://192.168.43.55:8002/motan-demo-rpc//1.0/service connectionCount: 8 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+23:05:46 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:05:46 [motan-memoryStatistic] 49.91MB of 7282.00 MB (0.7%) used 
+23:05:46 [motan-statisticCallback] identity: motan://192.168.43.55:8001/motan-demo-rpc//1.0/service connectionCount: 0 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+23:05:46 [motan-statisticCallback] identity: motan://192.168.43.55:8002/motan-demo-rpc//1.0/service connectionCount: 8 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+23:06:16 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:06:16 [motan-memoryStatistic] 49.91MB of 7282.00 MB (0.7%) used 
+23:06:16 [motan-statisticCallback] identity: motan://192.168.43.55:8001/motan-demo-rpc//1.0/service connectionCount: 0 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+23:06:16 [motan-statisticCallback] identity: motan://192.168.43.55:8002/motan-demo-rpc//1.0/service connectionCount: 8 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+23:06:46 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:06:46 [motan-memoryStatistic] 49.91MB of 7282.00 MB (0.7%) used 
+23:06:46 [motan-statisticCallback] identity: motan://192.168.43.55:8001/motan-demo-rpc//1.0/service connectionCount: 0 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+23:06:46 [motan-statisticCallback] identity: motan://192.168.43.55:8002/motan-demo-rpc//1.0/service connectionCount: 8 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+23:07:16 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:07:16 [motan-memoryStatistic] 53.05MB of 7282.00 MB (0.7%) used 
+23:07:16 [motan-statisticCallback] identity: motan://192.168.43.55:8001/motan-demo-rpc//1.0/service connectionCount: 0 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+23:07:16 [motan-statisticCallback] identity: motan://192.168.43.55:8002/motan-demo-rpc//1.0/service connectionCount: 8 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+23:07:46 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:07:46 [motan-memoryStatistic] 53.05MB of 7282.00 MB (0.7%) used 
+23:07:46 [motan-statisticCallback] identity: motan://192.168.43.55:8001/motan-demo-rpc//1.0/service connectionCount: 0 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+23:07:46 [motan-statisticCallback] identity: motan://192.168.43.55:8002/motan-demo-rpc//1.0/service connectionCount: 8 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+23:08:16 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:08:16 [motan-memoryStatistic] 53.05MB of 7282.00 MB (0.7%) used 
+23:08:16 [motan-statisticCallback] identity: motan://192.168.43.55:8001/motan-demo-rpc//1.0/service connectionCount: 0 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+23:08:16 [motan-statisticCallback] identity: motan://192.168.43.55:8002/motan-demo-rpc//1.0/service connectionCount: 8 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+23:09:43 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:09:43 [motan-memoryStatistic] 16.15MB of 7282.00 MB (0.2%) used 
+23:09:43 [motan-statisticCallback] identity: motan://192.168.43.55:8001/motan-demo-rpc//1.0/service connectionCount: 0 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+23:09:43 [motan-statisticCallback] identity: motan://192.168.43.55:8002/motan-demo-rpc//1.0/service connectionCount: 1 taskCount: 1 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+23:09:43 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:09:43 [motan-memoryStatistic] 17.49MB of 7282.00 MB (0.2%) used 
+23:09:43 [motan-statisticCallback] identity: motan://192.168.43.55:8001/motan-demo-rpc//1.0/service connectionCount: 0 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+23:09:43 [motan-statisticCallback] identity: motan://192.168.43.55:8002/motan-demo-rpc//1.0/service connectionCount: 1 taskCount: 1 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+23:14:10 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:14:10 [motan-memoryStatistic] 120.91MB of 7282.00 MB (1.7%) used 
+23:14:10 [motan-statisticCallback] identity: motan://192.168.43.55:8001/motan-demo-rpc//1.0/service connectionCount: 0 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+23:14:10 [motan-statisticCallback] identity: motan://192.168.43.55:8002/motan-demo-rpc//1.0/service connectionCount: 0 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+23:14:40 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:14:40 [motan-memoryStatistic] 120.91MB of 7282.00 MB (1.7%) used 
+23:14:40 [motan-statisticCallback] identity: motan://192.168.43.55:8001/motan-demo-rpc//1.0/service connectionCount: 0 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+23:14:40 [motan-statisticCallback] identity: motan://192.168.43.55:8002/motan-demo-rpc//1.0/service connectionCount: 0 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+23:15:10 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:15:10 [motan-memoryStatistic] 120.91MB of 7282.00 MB (1.7%) used 
+23:15:10 [motan-statisticCallback] identity: motan://192.168.43.55:8001/motan-demo-rpc//1.0/service connectionCount: 0 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+23:15:10 [motan-statisticCallback] identity: motan://192.168.43.55:8002/motan-demo-rpc//1.0/service connectionCount: 0 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+23:15:40 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:15:40 [motan-memoryStatistic] 120.91MB of 7282.00 MB (1.7%) used 
+23:15:40 [motan-statisticCallback] identity: motan://192.168.43.55:8001/motan-demo-rpc//1.0/service connectionCount: 0 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+23:15:40 [motan-statisticCallback] identity: motan://192.168.43.55:8002/motan-demo-rpc//1.0/service connectionCount: 0 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+23:16:10 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:16:10 [motan-memoryStatistic] 120.91MB of 7282.00 MB (1.7%) used 
+23:16:10 [motan-statisticCallback] identity: motan://192.168.43.55:8001/motan-demo-rpc//1.0/service connectionCount: 0 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+23:16:10 [motan-statisticCallback] identity: motan://192.168.43.55:8002/motan-demo-rpc//1.0/service connectionCount: 0 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+23:16:40 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:16:40 [motan-memoryStatistic] 120.91MB of 7282.00 MB (1.7%) used 
+23:16:40 [motan-statisticCallback] identity: motan://192.168.43.55:8001/motan-demo-rpc//1.0/service connectionCount: 0 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+23:16:40 [motan-statisticCallback] identity: motan://192.168.43.55:8002/motan-demo-rpc//1.0/service connectionCount: 0 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+23:17:12 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:17:12 [motan-memoryStatistic] 17.49MB of 7282.00 MB (0.2%) used 
+23:17:12 [motan-statisticCallback] identity: motan://192.168.43.55:8001/motan-demo-rpc//1.0/service connectionCount: 0 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+23:17:12 [motan-statisticCallback] identity: motan://192.168.43.55:8002/motan-demo-rpc//1.0/service connectionCount: 0 taskCount: 1 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+23:31:26 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:33:30 [motan-memoryStatistic] 29.76MB of 7282.00 MB (0.4%) used 
+23:34:03 [motan-statisticCallback] identity: motan://192.168.43.55:8001/motan-demo-rpc//1.0/service connectionCount: 0 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+23:34:03 [motan-statisticCallback] identity: motan://192.168.43.55:8002/motan-demo-rpc//1.0/service connectionCount: 8 taskCount: 1 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+23:34:03 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:34:03 [motan-memoryStatistic] 29.76MB of 7282.00 MB (0.4%) used 
+23:34:03 [motan-statisticCallback] identity: motan://192.168.43.55:8001/motan-demo-rpc//1.0/service connectionCount: 0 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+23:34:03 [motan-statisticCallback] identity: motan://192.168.43.55:8002/motan-demo-rpc//1.0/service connectionCount: 8 taskCount: 1 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+23:34:03 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:34:03 [motan-memoryStatistic] 29.76MB of 7282.00 MB (0.4%) used 
+23:34:03 [motan-statisticCallback] identity: motan://192.168.43.55:8001/motan-demo-rpc//1.0/service connectionCount: 0 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+23:34:03 [motan-statisticCallback] identity: motan://192.168.43.55:8002/motan-demo-rpc//1.0/service connectionCount: 8 taskCount: 1 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+23:34:03 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:34:03 [motan-memoryStatistic] 29.76MB of 7282.00 MB (0.4%) used 
+23:34:03 [motan-statisticCallback] identity: motan://192.168.43.55:8001/motan-demo-rpc//1.0/service connectionCount: 0 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+23:34:03 [motan-statisticCallback] identity: motan://192.168.43.55:8002/motan-demo-rpc//1.0/service connectionCount: 8 taskCount: 1 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+23:34:03 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:34:03 [motan-memoryStatistic] 29.76MB of 7282.00 MB (0.4%) used 
+23:34:03 [motan-statisticCallback] identity: motan://192.168.43.55:8001/motan-demo-rpc//1.0/service connectionCount: 0 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+23:34:03 [motan-statisticCallback] identity: motan://192.168.43.55:8002/motan-demo-rpc//1.0/service connectionCount: 8 taskCount: 1 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+23:34:03 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:34:03 [motan-memoryStatistic] 29.76MB of 7282.00 MB (0.4%) used 
+23:34:03 [motan-statisticCallback] identity: motan://192.168.43.55:8001/motan-demo-rpc//1.0/service connectionCount: 0 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+23:34:03 [motan-statisticCallback] identity: motan://192.168.43.55:8002/motan-demo-rpc//1.0/service connectionCount: 8 taskCount: 1 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+23:34:25 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:34:25 [motan-memoryStatistic] 29.76MB of 7282.00 MB (0.4%) used 
+23:34:37 [motan-statisticCallback] identity: motan://192.168.43.55:8001/motan-demo-rpc//1.0/service connectionCount: 0 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+23:34:37 [motan-statisticCallback] identity: motan://192.168.43.55:8002/motan-demo-rpc//1.0/service connectionCount: 8 taskCount: 1 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+23:39:08 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:39:48 [motan-memoryStatistic] 29.76MB of 7282.00 MB (0.4%) used 
+23:40:03 [motan-statisticCallback] identity: motan://192.168.43.55:8001/motan-demo-rpc//1.0/service connectionCount: 0 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+23:41:44 [motan-statisticCallback] identity: motan://192.168.43.55:8002/motan-demo-rpc//1.0/service connectionCount: 8 taskCount: 1 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+23:41:44 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:41:44 [motan-memoryStatistic] 29.76MB of 7282.00 MB (0.4%) used 
+23:41:44 [motan-statisticCallback] identity: motan://192.168.43.55:8001/motan-demo-rpc//1.0/service connectionCount: 0 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+23:41:44 [motan-statisticCallback] identity: motan://192.168.43.55:8002/motan-demo-rpc//1.0/service connectionCount: 8 taskCount: 1 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+23:41:44 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:41:44 [motan-memoryStatistic] 29.76MB of 7282.00 MB (0.4%) used 
+23:41:44 [motan-statisticCallback] identity: motan://192.168.43.55:8001/motan-demo-rpc//1.0/service connectionCount: 0 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+23:41:44 [motan-statisticCallback] identity: motan://192.168.43.55:8002/motan-demo-rpc//1.0/service connectionCount: 8 taskCount: 1 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+23:41:44 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:41:44 [motan-memoryStatistic] 29.76MB of 7282.00 MB (0.4%) used 
+23:41:44 [motan-statisticCallback] identity: motan://192.168.43.55:8001/motan-demo-rpc//1.0/service connectionCount: 0 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+23:41:44 [motan-statisticCallback] identity: motan://192.168.43.55:8002/motan-demo-rpc//1.0/service connectionCount: 8 taskCount: 1 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+23:41:44 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:41:44 [motan-memoryStatistic] 29.76MB of 7282.00 MB (0.4%) used 
+23:41:44 [motan-statisticCallback] identity: motan://192.168.43.55:8001/motan-demo-rpc//1.0/service connectionCount: 0 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+23:41:44 [motan-statisticCallback] identity: motan://192.168.43.55:8002/motan-demo-rpc//1.0/service connectionCount: 8 taskCount: 1 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+23:41:44 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:41:44 [motan-memoryStatistic] 29.76MB of 7282.00 MB (0.4%) used 
+23:41:44 [motan-statisticCallback] identity: motan://192.168.43.55:8001/motan-demo-rpc//1.0/service connectionCount: 0 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+23:41:44 [motan-statisticCallback] identity: motan://192.168.43.55:8002/motan-demo-rpc//1.0/service connectionCount: 8 taskCount: 1 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+23:41:44 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:41:44 [motan-memoryStatistic] 29.76MB of 7282.00 MB (0.4%) used 
+23:41:44 [motan-statisticCallback] identity: motan://192.168.43.55:8001/motan-demo-rpc//1.0/service connectionCount: 0 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+23:41:44 [motan-statisticCallback] identity: motan://192.168.43.55:8002/motan-demo-rpc//1.0/service connectionCount: 8 taskCount: 1 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+23:41:44 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:41:44 [motan-memoryStatistic] 29.76MB of 7282.00 MB (0.4%) used 
+23:41:44 [motan-statisticCallback] identity: motan://192.168.43.55:8001/motan-demo-rpc//1.0/service connectionCount: 0 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+23:41:44 [motan-statisticCallback] identity: motan://192.168.43.55:8002/motan-demo-rpc//1.0/service connectionCount: 8 taskCount: 1 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+23:41:44 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:41:44 [motan-memoryStatistic] 29.76MB of 7282.00 MB (0.4%) used 
+23:41:44 [motan-statisticCallback] identity: motan://192.168.43.55:8001/motan-demo-rpc//1.0/service connectionCount: 0 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+23:41:44 [motan-statisticCallback] identity: motan://192.168.43.55:8002/motan-demo-rpc//1.0/service connectionCount: 8 taskCount: 1 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+23:41:44 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:41:44 [motan-memoryStatistic] 29.76MB of 7282.00 MB (0.4%) used 
+23:41:44 [motan-statisticCallback] identity: motan://192.168.43.55:8001/motan-demo-rpc//1.0/service connectionCount: 0 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+23:41:44 [motan-statisticCallback] identity: motan://192.168.43.55:8002/motan-demo-rpc//1.0/service connectionCount: 8 taskCount: 1 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+23:41:44 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:41:44 [motan-memoryStatistic] 29.76MB of 7282.00 MB (0.4%) used 
+23:41:44 [motan-statisticCallback] identity: motan://192.168.43.55:8001/motan-demo-rpc//1.0/service connectionCount: 0 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+23:41:44 [motan-statisticCallback] identity: motan://192.168.43.55:8002/motan-demo-rpc//1.0/service connectionCount: 8 taskCount: 1 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+23:41:44 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:41:44 [motan-memoryStatistic] 29.76MB of 7282.00 MB (0.4%) used 
+23:41:44 [motan-statisticCallback] identity: motan://192.168.43.55:8001/motan-demo-rpc//1.0/service connectionCount: 0 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+23:41:44 [motan-statisticCallback] identity: motan://192.168.43.55:8002/motan-demo-rpc//1.0/service connectionCount: 8 taskCount: 1 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+23:41:44 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:41:44 [motan-memoryStatistic] 29.76MB of 7282.00 MB (0.4%) used 
+23:41:44 [motan-statisticCallback] identity: motan://192.168.43.55:8001/motan-demo-rpc//1.0/service connectionCount: 0 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+23:41:44 [motan-statisticCallback] identity: motan://192.168.43.55:8002/motan-demo-rpc//1.0/service connectionCount: 8 taskCount: 1 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+23:41:44 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:41:44 [motan-memoryStatistic] 29.76MB of 7282.00 MB (0.4%) used 
+23:41:44 [motan-statisticCallback] identity: motan://192.168.43.55:8001/motan-demo-rpc//1.0/service connectionCount: 0 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+23:41:44 [motan-statisticCallback] identity: motan://192.168.43.55:8002/motan-demo-rpc//1.0/service connectionCount: 8 taskCount: 1 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+23:52:36 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:52:36 [motan-memoryStatistic] 34.90MB of 7282.00 MB (0.5%) used 
+23:52:36 [motan-statisticCallback] identity: motan://192.168.43.55:8001/motan-demo-rpc//1.0/service connectionCount: 0 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+23:52:36 [motan-statisticCallback] identity: motan://192.168.43.55:8002/motan-demo-rpc//1.0/service connectionCount: 8 taskCount: 2 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+23:52:36 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:52:36 [motan-memoryStatistic] 39.12MB of 7282.00 MB (0.5%) used 
+23:52:36 [motan-statisticCallback] identity: motan://192.168.43.55:8001/motan-demo-rpc//1.0/service connectionCount: 0 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+23:52:36 [motan-statisticCallback] identity: motan://192.168.43.55:8002/motan-demo-rpc//1.0/service connectionCount: 8 taskCount: 3 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+23:52:36 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:52:36 [motan-memoryStatistic] 43.90MB of 7282.00 MB (0.6%) used 
+23:52:36 [motan-statisticCallback] identity: motan://192.168.43.55:8001/motan-demo-rpc//1.0/service connectionCount: 0 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+23:52:36 [motan-statisticCallback] identity: motan://192.168.43.55:8002/motan-demo-rpc//1.0/service connectionCount: 8 taskCount: 3 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+23:52:36 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:52:36 [motan-memoryStatistic] 45.00MB of 7282.00 MB (0.6%) used 
+23:52:36 [motan-statisticCallback] identity: motan://192.168.43.55:8001/motan-demo-rpc//1.0/service connectionCount: 0 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+23:52:36 [motan-statisticCallback] identity: motan://192.168.43.55:8002/motan-demo-rpc//1.0/service connectionCount: 10 taskCount: 3 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+23:52:36 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:52:36 [motan-memoryStatistic] 45.00MB of 7282.00 MB (0.6%) used 
+23:52:36 [motan-statisticCallback] identity: motan://192.168.43.55:8001/motan-demo-rpc//1.0/service connectionCount: 0 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+23:52:36 [motan-statisticCallback] identity: motan://192.168.43.55:8002/motan-demo-rpc//1.0/service connectionCount: 11 taskCount: 3 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+23:52:36 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:52:36 [motan-memoryStatistic] 45.00MB of 7282.00 MB (0.6%) used 
+23:52:36 [motan-statisticCallback] identity: motan://192.168.43.55:8001/motan-demo-rpc//1.0/service connectionCount: 0 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+23:52:36 [motan-statisticCallback] identity: motan://192.168.43.55:8002/motan-demo-rpc//1.0/service connectionCount: 11 taskCount: 3 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+23:52:36 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:52:36 [motan-memoryStatistic] 45.00MB of 7282.00 MB (0.6%) used 
+23:52:36 [motan-statisticCallback] identity: motan://192.168.43.55:8001/motan-demo-rpc//1.0/service connectionCount: 0 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+23:52:36 [motan-statisticCallback] identity: motan://192.168.43.55:8002/motan-demo-rpc//1.0/service connectionCount: 15 taskCount: 3 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+23:52:36 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:52:36 [motan-memoryStatistic] 45.00MB of 7282.00 MB (0.6%) used 
+23:52:36 [motan-statisticCallback] identity: motan://192.168.43.55:8001/motan-demo-rpc//1.0/service connectionCount: 0 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+23:52:36 [motan-statisticCallback] identity: motan://192.168.43.55:8002/motan-demo-rpc//1.0/service connectionCount: 17 taskCount: 3 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+23:52:36 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:52:36 [motan-memoryStatistic] 45.00MB of 7282.00 MB (0.6%) used 
+23:52:36 [motan-statisticCallback] identity: motan://192.168.43.55:8001/motan-demo-rpc//1.0/service connectionCount: 0 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+23:52:36 [motan-statisticCallback] identity: motan://192.168.43.55:8002/motan-demo-rpc//1.0/service connectionCount: 17 taskCount: 3 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+23:52:36 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:52:36 [motan-memoryStatistic] 45.37MB of 7282.00 MB (0.6%) used 
+23:52:36 [motan-statisticCallback] identity: motan://192.168.43.55:8001/motan-demo-rpc//1.0/service connectionCount: 0 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+23:52:36 [motan-statisticCallback] identity: motan://192.168.43.55:8002/motan-demo-rpc//1.0/service connectionCount: 17 taskCount: 3 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+23:52:36 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:52:36 [motan-memoryStatistic] 45.73MB of 7282.00 MB (0.6%) used 
+23:52:36 [motan-statisticCallback] identity: motan://192.168.43.55:8001/motan-demo-rpc//1.0/service connectionCount: 0 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+23:52:36 [motan-statisticCallback] identity: motan://192.168.43.55:8002/motan-demo-rpc//1.0/service connectionCount: 17 taskCount: 3 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+23:52:36 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:52:36 [motan-memoryStatistic] 45.73MB of 7282.00 MB (0.6%) used 
+23:52:36 [motan-statisticCallback] identity: motan://192.168.43.55:8001/motan-demo-rpc//1.0/service connectionCount: 0 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+23:52:36 [motan-statisticCallback] identity: motan://192.168.43.55:8002/motan-demo-rpc//1.0/service connectionCount: 17 taskCount: 3 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+23:52:36 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:52:36 [motan-memoryStatistic] 45.73MB of 7282.00 MB (0.6%) used 
+23:52:36 [motan-statisticCallback] identity: motan://192.168.43.55:8001/motan-demo-rpc//1.0/service connectionCount: 0 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+23:52:36 [motan-statisticCallback] identity: motan://192.168.43.55:8002/motan-demo-rpc//1.0/service connectionCount: 17 taskCount: 3 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+23:52:36 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:52:36 [motan-memoryStatistic] 45.73MB of 7282.00 MB (0.6%) used 
+23:52:36 [motan-statisticCallback] identity: motan://192.168.43.55:8001/motan-demo-rpc//1.0/service connectionCount: 0 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+23:52:36 [motan-statisticCallback] identity: motan://192.168.43.55:8002/motan-demo-rpc//1.0/service connectionCount: 11 taskCount: 3 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+23:52:36 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:52:36 [motan-memoryStatistic] 45.73MB of 7282.00 MB (0.6%) used 
+23:52:36 [motan-statisticCallback] identity: motan://192.168.43.55:8001/motan-demo-rpc//1.0/service connectionCount: 0 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+23:52:36 [motan-statisticCallback] identity: motan://192.168.43.55:8002/motan-demo-rpc//1.0/service connectionCount: 9 taskCount: 3 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+23:52:36 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:52:36 [motan-memoryStatistic] 45.73MB of 7282.00 MB (0.6%) used 
+23:52:36 [motan-statisticCallback] identity: motan://192.168.43.55:8001/motan-demo-rpc//1.0/service connectionCount: 0 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+23:52:36 [motan-statisticCallback] identity: motan://192.168.43.55:8002/motan-demo-rpc//1.0/service connectionCount: 9 taskCount: 3 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+23:52:36 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:52:36 [motan-memoryStatistic] 45.73MB of 7282.00 MB (0.6%) used 
+23:52:36 [motan-statisticCallback] identity: motan://192.168.43.55:8001/motan-demo-rpc//1.0/service connectionCount: 0 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+23:52:36 [motan-statisticCallback] identity: motan://192.168.43.55:8002/motan-demo-rpc//1.0/service connectionCount: 9 taskCount: 3 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+23:52:36 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:52:36 [motan-memoryStatistic] 46.10MB of 7282.00 MB (0.6%) used 
+23:52:36 [motan-statisticCallback] identity: motan://192.168.43.55:8001/motan-demo-rpc//1.0/service connectionCount: 0 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+23:52:36 [motan-statisticCallback] identity: motan://192.168.43.55:8002/motan-demo-rpc//1.0/service connectionCount: 8 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+23:52:36 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:52:36 [motan-memoryStatistic] 46.10MB of 7282.00 MB (0.6%) used 
+23:52:36 [motan-statisticCallback] identity: motan://192.168.43.55:8001/motan-demo-rpc//1.0/service connectionCount: 0 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+23:52:36 [motan-statisticCallback] identity: motan://192.168.43.55:8002/motan-demo-rpc//1.0/service connectionCount: 8 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+23:52:36 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:52:36 [motan-memoryStatistic] 46.10MB of 7282.00 MB (0.6%) used 
+23:52:36 [motan-statisticCallback] identity: motan://192.168.43.55:8001/motan-demo-rpc//1.0/service connectionCount: 0 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+23:52:36 [motan-statisticCallback] identity: motan://192.168.43.55:8002/motan-demo-rpc//1.0/service connectionCount: 8 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+23:52:36 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:52:36 [motan-memoryStatistic] 46.10MB of 7282.00 MB (0.6%) used 
+23:52:36 [motan-statisticCallback] identity: motan://192.168.43.55:8001/motan-demo-rpc//1.0/service connectionCount: 0 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+23:52:36 [motan-statisticCallback] identity: motan://192.168.43.55:8002/motan-demo-rpc//1.0/service connectionCount: 8 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+23:52:36 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:52:36 [motan-memoryStatistic] 46.10MB of 7282.00 MB (0.6%) used 
+23:52:36 [motan-statisticCallback] identity: motan://192.168.43.55:8001/motan-demo-rpc//1.0/service connectionCount: 0 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+23:52:36 [motan-statisticCallback] identity: motan://192.168.43.55:8002/motan-demo-rpc//1.0/service connectionCount: 8 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+23:53:16 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:53:22 [motan-memoryStatistic] 17.24MB of 7282.00 MB (0.2%) used 
+23:53:22 [motan-statisticCallback] identity: motan://192.168.43.55:8001/motan-demo-rpc//1.0/service connectionCount: 0 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+23:53:22 [motan-statisticCallback] identity: motan://192.168.43.55:8002/motan-demo-rpc//1.0/service connectionCount: 1 taskCount: 1 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+23:54:30 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:54:30 [motan-memoryStatistic] 17.43MB of 7282.00 MB (0.2%) used 
+23:54:30 [motan-statisticCallback] identity: motan://192.168.43.55:8001/motan-demo-rpc//1.0/service connectionCount: 0 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0
+23:54:30 [motan-statisticCallback] identity: motan://192.168.43.55:8002/motan-demo-rpc//1.0/service connectionCount: 0 taskCount: 1 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0

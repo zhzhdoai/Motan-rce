@@ -1,0 +1,1 @@
+08:55:25 [motan-statisticCallback] identity: motan://192.168.3.29:8001/motan-demo-rpc//1.0/service connectionCount: 0 taskCount: 0 queueCount: 0 maxThreadCount: 800 maxTaskCount: 800 executorRejectCount: 0

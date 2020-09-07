@@ -1,0 +1,880 @@
+00:58:20 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+00:58:20 [motan-memoryStatistic] 121.04MB of 7282.00 MB (1.7%) used 
+00:58:50 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+00:58:50 [motan-memoryStatistic] 121.04MB of 7282.00 MB (1.7%) used 
+00:59:20 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+00:59:20 [motan-memoryStatistic] 121.04MB of 7282.00 MB (1.7%) used 
+00:59:50 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+00:59:50 [motan-memoryStatistic] 121.04MB of 7282.00 MB (1.7%) used 
+01:00:20 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+01:00:20 [motan-memoryStatistic] 121.04MB of 7282.00 MB (1.7%) used 
+01:00:50 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+01:00:50 [motan-memoryStatistic] 121.04MB of 7282.00 MB (1.7%) used 
+01:01:20 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+01:01:20 [motan-memoryStatistic] 121.04MB of 7282.00 MB (1.7%) used 
+01:01:50 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+01:01:50 [motan-memoryStatistic] 121.04MB of 7282.00 MB (1.7%) used 
+01:02:20 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+01:02:20 [motan-memoryStatistic] 121.04MB of 7282.00 MB (1.7%) used 
+01:02:50 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+01:02:50 [motan-memoryStatistic] 121.04MB of 7282.00 MB (1.7%) used 
+01:03:20 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+01:03:20 [motan-memoryStatistic] 121.04MB of 7282.00 MB (1.7%) used 
+01:03:50 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+01:03:50 [motan-memoryStatistic] 121.04MB of 7282.00 MB (1.7%) used 
+01:04:20 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+01:04:20 [motan-memoryStatistic] 121.04MB of 7282.00 MB (1.7%) used 
+01:04:50 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+01:04:50 [motan-memoryStatistic] 121.04MB of 7282.00 MB (1.7%) used 
+01:05:20 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+01:05:20 [motan-memoryStatistic] 121.04MB of 7282.00 MB (1.7%) used 
+01:05:50 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+01:05:50 [motan-memoryStatistic] 121.04MB of 7282.00 MB (1.7%) used 
+01:06:20 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+01:06:20 [motan-memoryStatistic] 121.04MB of 7282.00 MB (1.7%) used 
+01:06:50 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+01:06:50 [motan-memoryStatistic] 121.04MB of 7282.00 MB (1.7%) used 
+01:07:20 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+01:07:20 [motan-memoryStatistic] 121.04MB of 7282.00 MB (1.7%) used 
+01:07:50 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+01:07:50 [motan-memoryStatistic] 121.04MB of 7282.00 MB (1.7%) used 
+01:08:47 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+01:08:47 [motan-memoryStatistic] 116.43MB of 7282.00 MB (1.6%) used 
+01:09:17 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+01:09:17 [motan-memoryStatistic] 116.43MB of 7282.00 MB (1.6%) used 
+01:09:47 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+01:09:47 [motan-memoryStatistic] 116.43MB of 7282.00 MB (1.6%) used 
+01:10:17 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+01:10:17 [motan-memoryStatistic] 116.43MB of 7282.00 MB (1.6%) used 
+01:10:47 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+01:10:47 [motan-memoryStatistic] 116.43MB of 7282.00 MB (1.6%) used 
+01:11:17 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+01:11:17 [motan-memoryStatistic] 116.43MB of 7282.00 MB (1.6%) used 
+01:11:47 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+01:11:47 [motan-memoryStatistic] 116.43MB of 7282.00 MB (1.6%) used 
+01:12:17 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+01:12:17 [motan-memoryStatistic] 116.43MB of 7282.00 MB (1.6%) used 
+01:12:47 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+01:12:47 [motan-memoryStatistic] 116.43MB of 7282.00 MB (1.6%) used 
+01:13:17 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+01:13:17 [motan-memoryStatistic] 116.43MB of 7282.00 MB (1.6%) used 
+01:13:47 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+01:13:47 [motan-memoryStatistic] 116.43MB of 7282.00 MB (1.6%) used 
+01:14:17 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+01:14:17 [motan-memoryStatistic] 116.43MB of 7282.00 MB (1.6%) used 
+01:14:47 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+01:14:47 [motan-memoryStatistic] 116.43MB of 7282.00 MB (1.6%) used 
+01:15:17 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+01:15:17 [motan-memoryStatistic] 116.43MB of 7282.00 MB (1.6%) used 
+01:15:47 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+01:15:47 [motan-memoryStatistic] 116.43MB of 7282.00 MB (1.6%) used 
+01:16:17 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+01:16:17 [motan-memoryStatistic] 116.43MB of 7282.00 MB (1.6%) used 
+01:16:47 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+01:16:47 [motan-memoryStatistic] 116.43MB of 7282.00 MB (1.6%) used 
+01:17:17 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+01:17:17 [motan-memoryStatistic] 116.43MB of 7282.00 MB (1.6%) used 
+01:17:47 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+01:17:47 [motan-memoryStatistic] 116.43MB of 7282.00 MB (1.6%) used 
+01:18:17 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+01:18:17 [motan-memoryStatistic] 116.43MB of 7282.00 MB (1.6%) used 
+01:18:47 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+01:18:47 [motan-memoryStatistic] 116.43MB of 7282.00 MB (1.6%) used 
+01:19:17 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+01:19:17 [motan-memoryStatistic] 116.43MB of 7282.00 MB (1.6%) used 
+01:19:47 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+01:19:47 [motan-memoryStatistic] 116.43MB of 7282.00 MB (1.6%) used 
+01:20:17 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+01:20:17 [motan-memoryStatistic] 116.43MB of 7282.00 MB (1.6%) used 
+01:20:47 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+01:20:47 [motan-memoryStatistic] 116.43MB of 7282.00 MB (1.6%) used 
+01:21:17 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+01:21:17 [motan-memoryStatistic] 116.43MB of 7282.00 MB (1.6%) used 
+01:21:47 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+01:21:47 [motan-memoryStatistic] 116.43MB of 7282.00 MB (1.6%) used 
+01:22:17 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+01:22:17 [motan-memoryStatistic] 116.43MB of 7282.00 MB (1.6%) used 
+01:22:47 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+01:22:47 [motan-memoryStatistic] 116.43MB of 7282.00 MB (1.6%) used 
+01:23:17 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+01:23:17 [motan-memoryStatistic] 116.43MB of 7282.00 MB (1.6%) used 
+01:23:47 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+01:23:47 [motan-memoryStatistic] 116.43MB of 7282.00 MB (1.6%) used 
+01:24:17 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+01:24:17 [motan-memoryStatistic] 116.43MB of 7282.00 MB (1.6%) used 
+01:24:47 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+01:24:47 [motan-memoryStatistic] 116.43MB of 7282.00 MB (1.6%) used 
+01:25:17 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+01:25:17 [motan-memoryStatistic] 116.43MB of 7282.00 MB (1.6%) used 
+01:25:47 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+01:25:47 [motan-memoryStatistic] 116.43MB of 7282.00 MB (1.6%) used 
+01:26:17 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+01:26:17 [motan-memoryStatistic] 116.43MB of 7282.00 MB (1.6%) used 
+01:26:47 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+01:26:47 [motan-memoryStatistic] 116.43MB of 7282.00 MB (1.6%) used 
+01:27:17 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+01:27:17 [motan-memoryStatistic] 116.43MB of 7282.00 MB (1.6%) used 
+01:27:47 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+01:27:47 [motan-memoryStatistic] 116.43MB of 7282.00 MB (1.6%) used 
+01:28:17 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+01:28:17 [motan-memoryStatistic] 116.43MB of 7282.00 MB (1.6%) used 
+01:28:47 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+01:28:47 [motan-memoryStatistic] 116.43MB of 7282.00 MB (1.6%) used 
+01:29:17 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+01:29:17 [motan-memoryStatistic] 116.43MB of 7282.00 MB (1.6%) used 
+01:29:47 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+01:29:47 [motan-memoryStatistic] 116.43MB of 7282.00 MB (1.6%) used 
+01:30:17 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+01:30:17 [motan-memoryStatistic] 116.43MB of 7282.00 MB (1.6%) used 
+01:30:47 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+01:30:47 [motan-memoryStatistic] 116.43MB of 7282.00 MB (1.6%) used 
+01:31:17 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+01:31:17 [motan-memoryStatistic] 116.43MB of 7282.00 MB (1.6%) used 
+01:31:47 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+01:31:47 [motan-memoryStatistic] 116.43MB of 7282.00 MB (1.6%) used 
+01:32:17 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+01:32:17 [motan-memoryStatistic] 116.43MB of 7282.00 MB (1.6%) used 
+01:32:47 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+01:32:47 [motan-memoryStatistic] 116.43MB of 7282.00 MB (1.6%) used 
+01:33:17 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+01:33:17 [motan-memoryStatistic] 116.43MB of 7282.00 MB (1.6%) used 
+01:33:47 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+01:33:47 [motan-memoryStatistic] 116.43MB of 7282.00 MB (1.6%) used 
+01:34:17 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+01:34:17 [motan-memoryStatistic] 116.43MB of 7282.00 MB (1.6%) used 
+01:34:47 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+01:34:47 [motan-memoryStatistic] 116.43MB of 7282.00 MB (1.6%) used 
+01:35:17 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+01:35:17 [motan-memoryStatistic] 116.43MB of 7282.00 MB (1.6%) used 
+01:35:47 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+01:35:47 [motan-memoryStatistic] 116.43MB of 7282.00 MB (1.6%) used 
+01:36:17 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+01:36:17 [motan-memoryStatistic] 116.43MB of 7282.00 MB (1.6%) used 
+01:36:47 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+01:36:47 [motan-memoryStatistic] 116.43MB of 7282.00 MB (1.6%) used 
+01:37:17 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+01:37:17 [motan-memoryStatistic] 116.43MB of 7282.00 MB (1.6%) used 
+01:37:47 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+01:37:47 [motan-memoryStatistic] 116.43MB of 7282.00 MB (1.6%) used 
+01:38:17 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+01:38:17 [motan-memoryStatistic] 116.43MB of 7282.00 MB (1.6%) used 
+01:38:47 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+01:38:47 [motan-memoryStatistic] 116.43MB of 7282.00 MB (1.6%) used 
+01:39:17 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+01:39:17 [motan-memoryStatistic] 116.43MB of 7282.00 MB (1.6%) used 
+01:39:47 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+01:39:47 [motan-memoryStatistic] 116.43MB of 7282.00 MB (1.6%) used 
+01:40:17 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+01:40:17 [motan-memoryStatistic] 117.29MB of 7282.00 MB (1.6%) used 
+01:40:47 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+01:40:47 [motan-memoryStatistic] 117.29MB of 7282.00 MB (1.6%) used 
+01:41:17 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+01:41:17 [motan-memoryStatistic] 117.29MB of 7282.00 MB (1.6%) used 
+01:41:47 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+01:41:47 [motan-memoryStatistic] 117.29MB of 7282.00 MB (1.6%) used 
+01:42:17 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+01:42:17 [motan-memoryStatistic] 117.29MB of 7282.00 MB (1.6%) used 
+01:42:47 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+01:42:47 [motan-memoryStatistic] 117.29MB of 7282.00 MB (1.6%) used 
+01:43:17 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+01:43:17 [motan-memoryStatistic] 117.29MB of 7282.00 MB (1.6%) used 
+01:43:47 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+01:43:47 [motan-memoryStatistic] 117.29MB of 7282.00 MB (1.6%) used 
+01:44:17 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+01:44:17 [motan-memoryStatistic] 117.29MB of 7282.00 MB (1.6%) used 
+01:44:47 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+01:44:47 [motan-memoryStatistic] 117.29MB of 7282.00 MB (1.6%) used 
+01:45:17 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+01:45:17 [motan-memoryStatistic] 117.29MB of 7282.00 MB (1.6%) used 
+01:45:47 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+01:45:47 [motan-memoryStatistic] 117.29MB of 7282.00 MB (1.6%) used 
+01:46:17 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+01:46:17 [motan-memoryStatistic] 117.29MB of 7282.00 MB (1.6%) used 
+01:46:47 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+01:46:47 [motan-memoryStatistic] 117.29MB of 7282.00 MB (1.6%) used 
+01:47:17 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+01:47:17 [motan-memoryStatistic] 117.29MB of 7282.00 MB (1.6%) used 
+01:47:47 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+01:47:47 [motan-memoryStatistic] 117.29MB of 7282.00 MB (1.6%) used 
+01:48:17 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+01:48:17 [motan-memoryStatistic] 117.29MB of 7282.00 MB (1.6%) used 
+01:48:47 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+01:48:47 [motan-memoryStatistic] 117.29MB of 7282.00 MB (1.6%) used 
+01:49:17 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+01:49:17 [motan-memoryStatistic] 117.29MB of 7282.00 MB (1.6%) used 
+01:49:47 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+01:49:47 [motan-memoryStatistic] 117.29MB of 7282.00 MB (1.6%) used 
+01:50:17 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+01:50:17 [motan-memoryStatistic] 117.93MB of 7282.00 MB (1.6%) used 
+01:50:47 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+01:50:47 [motan-memoryStatistic] 117.93MB of 7282.00 MB (1.6%) used 
+01:51:17 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+01:51:17 [motan-memoryStatistic] 117.93MB of 7282.00 MB (1.6%) used 
+01:51:47 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+01:51:47 [motan-memoryStatistic] 117.93MB of 7282.00 MB (1.6%) used 
+01:52:17 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+01:52:17 [motan-memoryStatistic] 117.93MB of 7282.00 MB (1.6%) used 
+01:52:47 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+01:52:47 [motan-memoryStatistic] 117.93MB of 7282.00 MB (1.6%) used 
+01:53:17 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+01:53:17 [motan-memoryStatistic] 117.93MB of 7282.00 MB (1.6%) used 
+01:53:47 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+01:53:47 [motan-memoryStatistic] 117.93MB of 7282.00 MB (1.6%) used 
+01:54:17 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+01:54:17 [motan-memoryStatistic] 117.93MB of 7282.00 MB (1.6%) used 
+01:54:47 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+01:54:47 [motan-memoryStatistic] 117.93MB of 7282.00 MB (1.6%) used 
+01:55:17 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+01:55:17 [motan-memoryStatistic] 117.93MB of 7282.00 MB (1.6%) used 
+01:55:47 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+01:55:47 [motan-memoryStatistic] 117.93MB of 7282.00 MB (1.6%) used 
+01:56:17 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+01:56:17 [motan-memoryStatistic] 117.93MB of 7282.00 MB (1.6%) used 
+01:56:47 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+01:56:47 [motan-memoryStatistic] 117.93MB of 7282.00 MB (1.6%) used 
+01:57:17 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+01:57:17 [motan-memoryStatistic] 117.93MB of 7282.00 MB (1.6%) used 
+01:57:47 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+01:57:47 [motan-memoryStatistic] 117.93MB of 7282.00 MB (1.6%) used 
+01:58:17 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+01:58:17 [motan-memoryStatistic] 117.93MB of 7282.00 MB (1.6%) used 
+01:58:47 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+01:58:47 [motan-memoryStatistic] 117.93MB of 7282.00 MB (1.6%) used 
+01:59:17 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+01:59:17 [motan-memoryStatistic] 117.93MB of 7282.00 MB (1.6%) used 
+01:59:47 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+01:59:47 [motan-memoryStatistic] 117.93MB of 7282.00 MB (1.6%) used 
+02:00:17 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+02:00:17 [motan-memoryStatistic] 117.93MB of 7282.00 MB (1.6%) used 
+02:00:47 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+02:00:47 [motan-memoryStatistic] 117.93MB of 7282.00 MB (1.6%) used 
+02:01:17 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+02:01:17 [motan-memoryStatistic] 117.93MB of 7282.00 MB (1.6%) used 
+02:01:47 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+02:01:47 [motan-memoryStatistic] 117.93MB of 7282.00 MB (1.6%) used 
+02:02:17 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+02:02:17 [motan-memoryStatistic] 117.93MB of 7282.00 MB (1.6%) used 
+02:02:47 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+02:02:47 [motan-memoryStatistic] 117.93MB of 7282.00 MB (1.6%) used 
+02:03:17 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+02:03:17 [motan-memoryStatistic] 117.93MB of 7282.00 MB (1.6%) used 
+02:03:47 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+02:03:47 [motan-memoryStatistic] 117.93MB of 7282.00 MB (1.6%) used 
+02:04:17 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+02:04:17 [motan-memoryStatistic] 117.93MB of 7282.00 MB (1.6%) used 
+02:04:47 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+02:04:47 [motan-memoryStatistic] 117.93MB of 7282.00 MB (1.6%) used 
+02:05:17 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+02:05:17 [motan-memoryStatistic] 117.93MB of 7282.00 MB (1.6%) used 
+02:05:47 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+02:05:47 [motan-memoryStatistic] 117.93MB of 7282.00 MB (1.6%) used 
+02:06:17 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+02:06:17 [motan-memoryStatistic] 117.93MB of 7282.00 MB (1.6%) used 
+02:06:47 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+02:06:47 [motan-memoryStatistic] 117.93MB of 7282.00 MB (1.6%) used 
+02:07:17 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+02:07:17 [motan-memoryStatistic] 117.93MB of 7282.00 MB (1.6%) used 
+02:07:47 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+02:07:47 [motan-memoryStatistic] 117.93MB of 7282.00 MB (1.6%) used 
+02:08:17 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+02:08:17 [motan-memoryStatistic] 117.93MB of 7282.00 MB (1.6%) used 
+02:08:47 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+02:08:47 [motan-memoryStatistic] 117.93MB of 7282.00 MB (1.6%) used 
+02:09:17 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+02:09:17 [motan-memoryStatistic] 117.93MB of 7282.00 MB (1.6%) used 
+02:09:47 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+02:09:47 [motan-memoryStatistic] 117.93MB of 7282.00 MB (1.6%) used 
+02:10:17 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+02:10:17 [motan-memoryStatistic] 117.93MB of 7282.00 MB (1.6%) used 
+02:10:47 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+02:10:47 [motan-memoryStatistic] 117.93MB of 7282.00 MB (1.6%) used 
+02:11:17 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+02:11:17 [motan-memoryStatistic] 117.93MB of 7282.00 MB (1.6%) used 
+02:11:47 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+02:11:47 [motan-memoryStatistic] 117.93MB of 7282.00 MB (1.6%) used 
+02:12:17 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+02:12:17 [motan-memoryStatistic] 117.93MB of 7282.00 MB (1.6%) used 
+02:12:47 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+02:12:47 [motan-memoryStatistic] 117.93MB of 7282.00 MB (1.6%) used 
+02:13:17 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+02:13:17 [motan-memoryStatistic] 117.93MB of 7282.00 MB (1.6%) used 
+02:13:47 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+02:13:47 [motan-memoryStatistic] 117.93MB of 7282.00 MB (1.6%) used 
+02:14:17 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+02:14:17 [motan-memoryStatistic] 117.93MB of 7282.00 MB (1.6%) used 
+02:14:47 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+02:14:47 [motan-memoryStatistic] 117.93MB of 7282.00 MB (1.6%) used 
+02:15:17 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+02:15:17 [motan-memoryStatistic] 117.93MB of 7282.00 MB (1.6%) used 
+02:15:47 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+02:15:47 [motan-memoryStatistic] 117.93MB of 7282.00 MB (1.6%) used 
+02:16:17 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+02:16:17 [motan-memoryStatistic] 117.93MB of 7282.00 MB (1.6%) used 
+02:16:47 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+02:16:47 [motan-memoryStatistic] 117.93MB of 7282.00 MB (1.6%) used 
+02:17:17 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+02:17:17 [motan-memoryStatistic] 117.93MB of 7282.00 MB (1.6%) used 
+02:17:47 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+02:17:47 [motan-memoryStatistic] 117.93MB of 7282.00 MB (1.6%) used 
+02:18:17 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+02:18:17 [motan-memoryStatistic] 117.93MB of 7282.00 MB (1.6%) used 
+02:18:47 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+02:18:47 [motan-memoryStatistic] 117.93MB of 7282.00 MB (1.6%) used 
+02:19:17 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+02:19:17 [motan-memoryStatistic] 117.93MB of 7282.00 MB (1.6%) used 
+02:19:47 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+02:19:47 [motan-memoryStatistic] 117.93MB of 7282.00 MB (1.6%) used 
+02:20:17 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+02:20:17 [motan-memoryStatistic] 117.93MB of 7282.00 MB (1.6%) used 
+02:20:47 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+02:20:47 [motan-memoryStatistic] 117.93MB of 7282.00 MB (1.6%) used 
+02:21:17 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+02:21:17 [motan-memoryStatistic] 117.93MB of 7282.00 MB (1.6%) used 
+02:21:47 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+02:21:47 [motan-memoryStatistic] 117.93MB of 7282.00 MB (1.6%) used 
+02:22:17 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+02:22:17 [motan-memoryStatistic] 117.93MB of 7282.00 MB (1.6%) used 
+02:40:26 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+02:40:26 [motan-memoryStatistic] 116.51MB of 7282.00 MB (1.6%) used 
+02:41:51 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+02:41:51 [motan-memoryStatistic] 116.50MB of 7282.00 MB (1.6%) used 
+02:42:21 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+02:42:21 [motan-memoryStatistic] 117.15MB of 7282.00 MB (1.6%) used 
+02:42:51 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+02:42:51 [motan-memoryStatistic] 117.15MB of 7282.00 MB (1.6%) used 
+02:43:21 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+02:43:21 [motan-memoryStatistic] 117.15MB of 7282.00 MB (1.6%) used 
+02:44:15 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+02:44:15 [motan-memoryStatistic] 117.76MB of 7282.00 MB (1.6%) used 
+02:44:45 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+02:44:45 [motan-memoryStatistic] 118.40MB of 7282.00 MB (1.6%) used 
+02:45:15 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+02:45:15 [motan-memoryStatistic] 118.40MB of 7282.00 MB (1.6%) used 
+02:45:45 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+02:45:45 [motan-memoryStatistic] 118.40MB of 7282.00 MB (1.6%) used 
+02:46:15 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+02:46:15 [motan-memoryStatistic] 118.40MB of 7282.00 MB (1.6%) used 
+02:46:45 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+02:46:45 [motan-memoryStatistic] 118.40MB of 7282.00 MB (1.6%) used 
+02:47:15 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+02:47:15 [motan-memoryStatistic] 118.40MB of 7282.00 MB (1.6%) used 
+02:47:45 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+02:47:45 [motan-memoryStatistic] 118.40MB of 7282.00 MB (1.6%) used 
+02:48:15 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+02:48:15 [motan-memoryStatistic] 119.25MB of 7282.00 MB (1.6%) used 
+02:48:45 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+02:48:45 [motan-memoryStatistic] 119.25MB of 7282.00 MB (1.6%) used 
+02:49:15 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+02:49:15 [motan-memoryStatistic] 119.25MB of 7282.00 MB (1.6%) used 
+02:58:57 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+02:58:57 [motan-memoryStatistic] 123.23MB of 7282.00 MB (1.7%) used 
+02:58:57 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+02:58:57 [motan-memoryStatistic] 123.23MB of 7282.00 MB (1.7%) used 
+02:58:57 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+02:58:57 [motan-memoryStatistic] 123.23MB of 7282.00 MB (1.7%) used 
+02:58:57 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+02:58:57 [motan-memoryStatistic] 123.23MB of 7282.00 MB (1.7%) used 
+02:58:57 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+02:58:57 [motan-memoryStatistic] 123.23MB of 7282.00 MB (1.7%) used 
+02:58:57 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+02:58:57 [motan-memoryStatistic] 123.23MB of 7282.00 MB (1.7%) used 
+02:58:57 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+02:58:57 [motan-memoryStatistic] 123.23MB of 7282.00 MB (1.7%) used 
+02:58:57 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+02:58:57 [motan-memoryStatistic] 123.23MB of 7282.00 MB (1.7%) used 
+02:58:57 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+02:58:57 [motan-memoryStatistic] 123.23MB of 7282.00 MB (1.7%) used 
+02:58:57 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+02:58:57 [motan-memoryStatistic] 123.23MB of 7282.00 MB (1.7%) used 
+02:58:57 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+02:58:57 [motan-memoryStatistic] 123.23MB of 7282.00 MB (1.7%) used 
+02:58:57 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+02:58:57 [motan-memoryStatistic] 123.23MB of 7282.00 MB (1.7%) used 
+02:58:57 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+02:58:57 [motan-memoryStatistic] 123.23MB of 7282.00 MB (1.7%) used 
+02:58:57 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+02:58:57 [motan-memoryStatistic] 123.23MB of 7282.00 MB (1.7%) used 
+02:58:57 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+02:58:57 [motan-memoryStatistic] 123.23MB of 7282.00 MB (1.7%) used 
+02:58:57 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+02:58:57 [motan-memoryStatistic] 123.23MB of 7282.00 MB (1.7%) used 
+02:58:57 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+02:58:57 [motan-memoryStatistic] 123.23MB of 7282.00 MB (1.7%) used 
+02:58:57 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+02:58:57 [motan-memoryStatistic] 123.23MB of 7282.00 MB (1.7%) used 
+02:59:16 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+03:00:51 [motan-memoryStatistic] 125.73MB of 7282.00 MB (1.7%) used 
+03:00:51 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+03:00:51 [motan-memoryStatistic] 125.73MB of 7282.00 MB (1.7%) used 
+03:00:52 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+03:02:47 [motan-memoryStatistic] 125.73MB of 7282.00 MB (1.7%) used 
+03:02:47 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+03:02:47 [motan-memoryStatistic] 127.01MB of 7282.00 MB (1.7%) used 
+03:02:47 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+03:02:47 [motan-memoryStatistic] 127.01MB of 7282.00 MB (1.7%) used 
+03:02:47 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+03:02:47 [motan-memoryStatistic] 127.01MB of 7282.00 MB (1.7%) used 
+03:02:47 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+03:02:47 [motan-memoryStatistic] 127.01MB of 7282.00 MB (1.7%) used 
+03:02:47 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+03:02:47 [motan-memoryStatistic] 127.01MB of 7282.00 MB (1.7%) used 
+03:45:33 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+03:45:33 [motan-memoryStatistic] 124.21MB of 7282.00 MB (1.7%) used 
+03:45:33 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+03:45:33 [motan-memoryStatistic] 124.21MB of 7282.00 MB (1.7%) used 
+03:45:33 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+03:45:33 [motan-memoryStatistic] 124.21MB of 7282.00 MB (1.7%) used 
+03:45:33 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+03:45:33 [motan-memoryStatistic] 124.21MB of 7282.00 MB (1.7%) used 
+03:45:33 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+03:45:33 [motan-memoryStatistic] 124.21MB of 7282.00 MB (1.7%) used 
+03:45:33 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+03:45:33 [motan-memoryStatistic] 124.21MB of 7282.00 MB (1.7%) used 
+03:45:33 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+03:45:33 [motan-memoryStatistic] 124.21MB of 7282.00 MB (1.7%) used 
+03:45:33 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+03:45:33 [motan-memoryStatistic] 124.21MB of 7282.00 MB (1.7%) used 
+03:45:33 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+03:45:33 [motan-memoryStatistic] 124.21MB of 7282.00 MB (1.7%) used 
+03:45:33 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+03:45:33 [motan-memoryStatistic] 124.21MB of 7282.00 MB (1.7%) used 
+03:45:33 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+03:45:33 [motan-memoryStatistic] 124.21MB of 7282.00 MB (1.7%) used 
+03:45:33 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+03:45:33 [motan-memoryStatistic] 124.21MB of 7282.00 MB (1.7%) used 
+03:45:33 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+03:45:33 [motan-memoryStatistic] 124.21MB of 7282.00 MB (1.7%) used 
+03:45:33 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+03:45:33 [motan-memoryStatistic] 124.21MB of 7282.00 MB (1.7%) used 
+03:45:33 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+03:45:33 [motan-memoryStatistic] 124.21MB of 7282.00 MB (1.7%) used 
+03:45:33 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+03:45:33 [motan-memoryStatistic] 124.21MB of 7282.00 MB (1.7%) used 
+03:45:33 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+03:45:33 [motan-memoryStatistic] 124.21MB of 7282.00 MB (1.7%) used 
+03:45:33 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+03:45:33 [motan-memoryStatistic] 124.21MB of 7282.00 MB (1.7%) used 
+03:45:33 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+03:45:33 [motan-memoryStatistic] 124.21MB of 7282.00 MB (1.7%) used 
+03:45:33 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+03:45:33 [motan-memoryStatistic] 124.21MB of 7282.00 MB (1.7%) used 
+03:45:33 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+03:45:33 [motan-memoryStatistic] 124.21MB of 7282.00 MB (1.7%) used 
+03:45:33 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+03:45:33 [motan-memoryStatistic] 124.21MB of 7282.00 MB (1.7%) used 
+03:45:33 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+03:45:33 [motan-memoryStatistic] 124.21MB of 7282.00 MB (1.7%) used 
+03:45:33 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+03:45:33 [motan-memoryStatistic] 124.21MB of 7282.00 MB (1.7%) used 
+03:45:33 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+03:45:33 [motan-memoryStatistic] 124.21MB of 7282.00 MB (1.7%) used 
+03:45:33 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+03:45:33 [motan-memoryStatistic] 124.21MB of 7282.00 MB (1.7%) used 
+03:45:33 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+03:45:33 [motan-memoryStatistic] 124.21MB of 7282.00 MB (1.7%) used 
+03:45:33 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+03:45:33 [motan-memoryStatistic] 124.21MB of 7282.00 MB (1.7%) used 
+03:45:33 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+03:45:33 [motan-memoryStatistic] 124.21MB of 7282.00 MB (1.7%) used 
+03:45:33 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+03:45:33 [motan-memoryStatistic] 124.21MB of 7282.00 MB (1.7%) used 
+03:45:33 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+03:45:33 [motan-memoryStatistic] 124.21MB of 7282.00 MB (1.7%) used 
+03:45:33 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+03:45:33 [motan-memoryStatistic] 124.21MB of 7282.00 MB (1.7%) used 
+03:45:33 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+03:45:33 [motan-memoryStatistic] 124.21MB of 7282.00 MB (1.7%) used 
+03:45:33 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+03:45:33 [motan-memoryStatistic] 124.21MB of 7282.00 MB (1.7%) used 
+03:45:33 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+03:45:33 [motan-memoryStatistic] 124.21MB of 7282.00 MB (1.7%) used 
+03:45:33 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+03:45:33 [motan-memoryStatistic] 124.21MB of 7282.00 MB (1.7%) used 
+03:45:33 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+03:45:33 [motan-memoryStatistic] 124.21MB of 7282.00 MB (1.7%) used 
+03:45:33 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+03:45:33 [motan-memoryStatistic] 124.21MB of 7282.00 MB (1.7%) used 
+03:45:33 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+03:45:33 [motan-memoryStatistic] 124.21MB of 7282.00 MB (1.7%) used 
+03:45:33 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+03:45:33 [motan-memoryStatistic] 124.21MB of 7282.00 MB (1.7%) used 
+03:45:33 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+03:45:33 [motan-memoryStatistic] 124.21MB of 7282.00 MB (1.7%) used 
+03:45:33 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+03:45:33 [motan-memoryStatistic] 124.21MB of 7282.00 MB (1.7%) used 
+03:45:33 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+03:45:33 [motan-memoryStatistic] 124.21MB of 7282.00 MB (1.7%) used 
+03:45:33 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+03:45:33 [motan-memoryStatistic] 124.21MB of 7282.00 MB (1.7%) used 
+03:45:33 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+03:45:33 [motan-memoryStatistic] 124.21MB of 7282.00 MB (1.7%) used 
+03:45:33 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+03:45:33 [motan-memoryStatistic] 124.21MB of 7282.00 MB (1.7%) used 
+03:45:33 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+03:45:33 [motan-memoryStatistic] 124.21MB of 7282.00 MB (1.7%) used 
+03:45:33 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+03:45:33 [motan-memoryStatistic] 124.21MB of 7282.00 MB (1.7%) used 
+03:45:33 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+03:45:33 [motan-memoryStatistic] 124.21MB of 7282.00 MB (1.7%) used 
+03:45:33 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+03:45:33 [motan-memoryStatistic] 124.21MB of 7282.00 MB (1.7%) used 
+03:45:33 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+03:45:33 [motan-memoryStatistic] 124.21MB of 7282.00 MB (1.7%) used 
+03:45:33 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+03:45:33 [motan-memoryStatistic] 124.21MB of 7282.00 MB (1.7%) used 
+03:45:33 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+03:45:33 [motan-memoryStatistic] 124.21MB of 7282.00 MB (1.7%) used 
+03:45:33 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+03:45:33 [motan-memoryStatistic] 124.21MB of 7282.00 MB (1.7%) used 
+03:45:33 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+03:45:33 [motan-memoryStatistic] 124.21MB of 7282.00 MB (1.7%) used 
+03:45:33 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+03:45:33 [motan-memoryStatistic] 124.21MB of 7282.00 MB (1.7%) used 
+03:45:33 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+03:45:33 [motan-memoryStatistic] 124.21MB of 7282.00 MB (1.7%) used 
+03:45:33 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+03:45:33 [motan-memoryStatistic] 124.21MB of 7282.00 MB (1.7%) used 
+03:45:33 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+03:45:33 [motan-memoryStatistic] 124.21MB of 7282.00 MB (1.7%) used 
+03:45:33 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+03:45:33 [motan-memoryStatistic] 124.21MB of 7282.00 MB (1.7%) used 
+03:45:33 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+03:45:33 [motan-memoryStatistic] 124.21MB of 7282.00 MB (1.7%) used 
+03:45:33 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+03:45:33 [motan-memoryStatistic] 124.21MB of 7282.00 MB (1.7%) used 
+03:45:33 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+03:45:33 [motan-memoryStatistic] 124.21MB of 7282.00 MB (1.7%) used 
+03:45:33 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+03:45:33 [motan-memoryStatistic] 124.21MB of 7282.00 MB (1.7%) used 
+03:45:33 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+03:45:33 [motan-memoryStatistic] 124.21MB of 7282.00 MB (1.7%) used 
+03:45:33 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+03:45:33 [motan-memoryStatistic] 124.21MB of 7282.00 MB (1.7%) used 
+03:45:33 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+03:45:33 [motan-memoryStatistic] 124.21MB of 7282.00 MB (1.7%) used 
+03:45:33 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+03:45:33 [motan-memoryStatistic] 124.21MB of 7282.00 MB (1.7%) used 
+03:55:33 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+03:56:05 [motan-memoryStatistic] 125.39MB of 7282.00 MB (1.7%) used 
+03:56:33 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+03:56:34 [motan-memoryStatistic] 125.39MB of 7282.00 MB (1.7%) used 
+03:56:36 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+03:56:53 [motan-memoryStatistic] 125.39MB of 7282.00 MB (1.7%) used 
+03:56:54 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+03:57:15 [motan-memoryStatistic] 125.39MB of 7282.00 MB (1.7%) used 
+03:57:17 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+03:58:00 [motan-memoryStatistic] 125.39MB of 7282.00 MB (1.7%) used 
+03:58:00 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+03:58:00 [motan-memoryStatistic] 126.67MB of 7282.00 MB (1.7%) used 
+03:58:00 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+03:58:00 [motan-memoryStatistic] 126.67MB of 7282.00 MB (1.7%) used 
+03:58:00 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+03:58:00 [motan-memoryStatistic] 126.67MB of 7282.00 MB (1.7%) used 
+04:03:09 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+04:03:09 [motan-memoryStatistic] 117.03MB of 7282.00 MB (1.6%) used 
+04:03:39 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+04:03:39 [motan-memoryStatistic] 117.67MB of 7282.00 MB (1.6%) used 
+04:04:09 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+04:04:09 [motan-memoryStatistic] 117.67MB of 7282.00 MB (1.6%) used 
+04:04:39 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+04:04:39 [motan-memoryStatistic] 117.67MB of 7282.00 MB (1.6%) used 
+04:05:09 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+04:05:09 [motan-memoryStatistic] 117.67MB of 7282.00 MB (1.6%) used 
+04:05:39 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+04:05:39 [motan-memoryStatistic] 117.67MB of 7282.00 MB (1.6%) used 
+04:06:09 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+04:06:09 [motan-memoryStatistic] 117.67MB of 7282.00 MB (1.6%) used 
+04:06:39 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+04:06:39 [motan-memoryStatistic] 117.67MB of 7282.00 MB (1.6%) used 
+04:07:09 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+04:07:09 [motan-memoryStatistic] 118.53MB of 7282.00 MB (1.6%) used 
+04:07:39 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+04:07:39 [motan-memoryStatistic] 118.53MB of 7282.00 MB (1.6%) used 
+04:08:09 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+04:08:09 [motan-memoryStatistic] 118.53MB of 7282.00 MB (1.6%) used 
+04:08:39 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+04:08:39 [motan-memoryStatistic] 118.53MB of 7282.00 MB (1.6%) used 
+04:09:09 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+04:09:09 [motan-memoryStatistic] 118.53MB of 7282.00 MB (1.6%) used 
+04:09:39 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+04:09:39 [motan-memoryStatistic] 118.53MB of 7282.00 MB (1.6%) used 
+04:10:09 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+04:10:09 [motan-memoryStatistic] 118.53MB of 7282.00 MB (1.6%) used 
+04:10:39 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+04:10:39 [motan-memoryStatistic] 118.53MB of 7282.00 MB (1.6%) used 
+04:11:09 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+04:11:09 [motan-memoryStatistic] 118.53MB of 7282.00 MB (1.6%) used 
+04:11:39 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+04:11:39 [motan-memoryStatistic] 118.53MB of 7282.00 MB (1.6%) used 
+04:12:09 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+04:12:09 [motan-memoryStatistic] 118.53MB of 7282.00 MB (1.6%) used 
+04:12:39 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+04:12:39 [motan-memoryStatistic] 118.53MB of 7282.00 MB (1.6%) used 
+04:13:09 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+04:13:09 [motan-memoryStatistic] 118.53MB of 7282.00 MB (1.6%) used 
+04:13:39 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+04:13:39 [motan-memoryStatistic] 118.53MB of 7282.00 MB (1.6%) used 
+04:14:09 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+04:14:09 [motan-memoryStatistic] 118.53MB of 7282.00 MB (1.6%) used 
+04:14:39 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+04:14:39 [motan-memoryStatistic] 118.53MB of 7282.00 MB (1.6%) used 
+04:15:09 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+04:15:09 [motan-memoryStatistic] 118.53MB of 7282.00 MB (1.6%) used 
+04:15:39 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+04:15:39 [motan-memoryStatistic] 118.53MB of 7282.00 MB (1.6%) used 
+04:16:09 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+04:16:09 [motan-memoryStatistic] 118.53MB of 7282.00 MB (1.6%) used 
+04:16:39 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+04:16:39 [motan-memoryStatistic] 118.53MB of 7282.00 MB (1.6%) used 
+04:17:09 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+04:17:09 [motan-memoryStatistic] 118.53MB of 7282.00 MB (1.6%) used 
+04:17:39 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+04:17:39 [motan-memoryStatistic] 118.53MB of 7282.00 MB (1.6%) used 
+04:18:09 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+04:18:09 [motan-memoryStatistic] 118.53MB of 7282.00 MB (1.6%) used 
+04:18:39 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+04:18:39 [motan-memoryStatistic] 118.53MB of 7282.00 MB (1.6%) used 
+04:19:09 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+04:19:09 [motan-memoryStatistic] 118.53MB of 7282.00 MB (1.6%) used 
+04:19:39 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+04:19:39 [motan-memoryStatistic] 118.53MB of 7282.00 MB (1.6%) used 
+04:20:09 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+04:20:09 [motan-memoryStatistic] 118.53MB of 7282.00 MB (1.6%) used 
+04:20:39 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+04:20:39 [motan-memoryStatistic] 118.53MB of 7282.00 MB (1.6%) used 
+04:21:09 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+04:21:09 [motan-memoryStatistic] 118.53MB of 7282.00 MB (1.6%) used 
+04:21:39 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+04:21:39 [motan-memoryStatistic] 118.53MB of 7282.00 MB (1.6%) used 
+04:22:09 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+04:22:09 [motan-memoryStatistic] 118.53MB of 7282.00 MB (1.6%) used 
+04:22:39 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+04:22:39 [motan-memoryStatistic] 118.53MB of 7282.00 MB (1.6%) used 
+04:23:09 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+04:23:09 [motan-memoryStatistic] 118.53MB of 7282.00 MB (1.6%) used 
+04:23:39 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+04:23:39 [motan-memoryStatistic] 118.53MB of 7282.00 MB (1.6%) used 
+04:24:09 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+04:24:09 [motan-memoryStatistic] 118.53MB of 7282.00 MB (1.6%) used 
+04:24:39 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+04:24:39 [motan-memoryStatistic] 118.53MB of 7282.00 MB (1.6%) used 
+04:25:09 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+04:25:09 [motan-memoryStatistic] 118.53MB of 7282.00 MB (1.6%) used 
+04:25:39 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+04:25:39 [motan-memoryStatistic] 118.53MB of 7282.00 MB (1.6%) used 
+04:26:09 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+04:26:09 [motan-memoryStatistic] 118.53MB of 7282.00 MB (1.6%) used 
+22:13:01 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+22:13:01 [motan-memoryStatistic] 125.36MB of 7282.00 MB (1.7%) used 
+22:13:01 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+22:13:01 [motan-memoryStatistic] 125.36MB of 7282.00 MB (1.7%) used 
+22:15:01 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+22:26:43 [motan-memoryStatistic] 125.36MB of 7282.00 MB (1.7%) used 
+22:47:05 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+22:58:42 [motan-memoryStatistic] 125.36MB of 7282.00 MB (1.7%) used 
+22:59:39 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+22:59:46 [motan-memoryStatistic] 125.36MB of 7282.00 MB (1.7%) used 
+22:59:48 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+22:59:51 [motan-memoryStatistic] 125.36MB of 7282.00 MB (1.7%) used 
+22:59:54 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+22:59:57 [motan-memoryStatistic] 125.36MB of 7282.00 MB (1.7%) used 
+23:00:10 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:00:31 [motan-memoryStatistic] 125.36MB of 7282.00 MB (1.7%) used 
+23:00:31 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:00:31 [motan-memoryStatistic] 125.36MB of 7282.00 MB (1.7%) used 
+23:00:31 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:00:31 [motan-memoryStatistic] 125.36MB of 7282.00 MB (1.7%) used 
+23:00:31 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:00:31 [motan-memoryStatistic] 125.36MB of 7282.00 MB (1.7%) used 
+23:00:31 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:00:31 [motan-memoryStatistic] 125.36MB of 7282.00 MB (1.7%) used 
+23:00:31 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:00:31 [motan-memoryStatistic] 125.36MB of 7282.00 MB (1.7%) used 
+23:00:31 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:00:31 [motan-memoryStatistic] 125.36MB of 7282.00 MB (1.7%) used 
+23:00:31 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:00:31 [motan-memoryStatistic] 125.36MB of 7282.00 MB (1.7%) used 
+23:00:31 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:00:31 [motan-memoryStatistic] 125.36MB of 7282.00 MB (1.7%) used 
+23:00:31 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:00:31 [motan-memoryStatistic] 125.36MB of 7282.00 MB (1.7%) used 
+23:00:31 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:00:31 [motan-memoryStatistic] 125.36MB of 7282.00 MB (1.7%) used 
+23:00:31 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:00:31 [motan-memoryStatistic] 125.36MB of 7282.00 MB (1.7%) used 
+23:00:31 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:00:31 [motan-memoryStatistic] 125.36MB of 7282.00 MB (1.7%) used 
+23:00:31 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:00:31 [motan-memoryStatistic] 125.36MB of 7282.00 MB (1.7%) used 
+23:00:31 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:00:31 [motan-memoryStatistic] 125.36MB of 7282.00 MB (1.7%) used 
+23:00:31 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:00:31 [motan-memoryStatistic] 125.36MB of 7282.00 MB (1.7%) used 
+23:00:31 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:00:31 [motan-memoryStatistic] 125.36MB of 7282.00 MB (1.7%) used 
+23:00:31 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:00:31 [motan-memoryStatistic] 125.36MB of 7282.00 MB (1.7%) used 
+23:00:31 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:00:31 [motan-memoryStatistic] 125.36MB of 7282.00 MB (1.7%) used 
+23:00:31 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:00:31 [motan-memoryStatistic] 125.36MB of 7282.00 MB (1.7%) used 
+23:00:31 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:00:31 [motan-memoryStatistic] 125.36MB of 7282.00 MB (1.7%) used 
+23:00:31 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:00:31 [motan-memoryStatistic] 125.36MB of 7282.00 MB (1.7%) used 
+23:00:31 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:00:31 [motan-memoryStatistic] 125.36MB of 7282.00 MB (1.7%) used 
+23:00:31 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:00:31 [motan-memoryStatistic] 125.36MB of 7282.00 MB (1.7%) used 
+23:00:31 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:00:31 [motan-memoryStatistic] 125.36MB of 7282.00 MB (1.7%) used 
+23:00:31 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:00:31 [motan-memoryStatistic] 125.36MB of 7282.00 MB (1.7%) used 
+23:00:31 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:00:31 [motan-memoryStatistic] 125.36MB of 7282.00 MB (1.7%) used 
+23:00:31 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:00:31 [motan-memoryStatistic] 125.36MB of 7282.00 MB (1.7%) used 
+23:00:31 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:00:31 [motan-memoryStatistic] 125.36MB of 7282.00 MB (1.7%) used 
+23:00:31 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:00:31 [motan-memoryStatistic] 125.36MB of 7282.00 MB (1.7%) used 
+23:00:31 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:00:31 [motan-memoryStatistic] 125.36MB of 7282.00 MB (1.7%) used 
+23:00:31 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:00:31 [motan-memoryStatistic] 125.36MB of 7282.00 MB (1.7%) used 
+23:00:31 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:00:31 [motan-memoryStatistic] 125.36MB of 7282.00 MB (1.7%) used 
+23:00:31 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:00:31 [motan-memoryStatistic] 125.36MB of 7282.00 MB (1.7%) used 
+23:00:31 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:00:31 [motan-memoryStatistic] 125.36MB of 7282.00 MB (1.7%) used 
+23:00:31 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:00:31 [motan-memoryStatistic] 125.36MB of 7282.00 MB (1.7%) used 
+23:00:31 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:00:31 [motan-memoryStatistic] 125.36MB of 7282.00 MB (1.7%) used 
+23:00:31 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:00:31 [motan-memoryStatistic] 125.36MB of 7282.00 MB (1.7%) used 
+23:00:31 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:00:31 [motan-memoryStatistic] 125.36MB of 7282.00 MB (1.7%) used 
+23:00:31 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:00:31 [motan-memoryStatistic] 125.36MB of 7282.00 MB (1.7%) used 
+23:00:31 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:00:31 [motan-memoryStatistic] 125.36MB of 7282.00 MB (1.7%) used 
+23:00:31 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:00:31 [motan-memoryStatistic] 125.36MB of 7282.00 MB (1.7%) used 
+23:00:31 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:00:31 [motan-memoryStatistic] 125.36MB of 7282.00 MB (1.7%) used 
+23:00:31 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:00:31 [motan-memoryStatistic] 125.36MB of 7282.00 MB (1.7%) used 
+23:00:31 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:00:31 [motan-memoryStatistic] 125.36MB of 7282.00 MB (1.7%) used 
+23:00:31 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:00:31 [motan-memoryStatistic] 125.36MB of 7282.00 MB (1.7%) used 
+23:00:31 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:00:31 [motan-memoryStatistic] 125.36MB of 7282.00 MB (1.7%) used 
+23:00:31 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:00:31 [motan-memoryStatistic] 125.36MB of 7282.00 MB (1.7%) used 
+23:00:31 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:00:31 [motan-memoryStatistic] 125.36MB of 7282.00 MB (1.7%) used 
+23:00:31 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:00:31 [motan-memoryStatistic] 125.36MB of 7282.00 MB (1.7%) used 
+23:00:31 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:00:31 [motan-memoryStatistic] 125.36MB of 7282.00 MB (1.7%) used 
+23:00:31 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:00:31 [motan-memoryStatistic] 125.36MB of 7282.00 MB (1.7%) used 
+23:00:31 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:00:31 [motan-memoryStatistic] 125.36MB of 7282.00 MB (1.7%) used 
+23:00:31 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:00:31 [motan-memoryStatistic] 125.36MB of 7282.00 MB (1.7%) used 
+23:00:31 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:00:31 [motan-memoryStatistic] 125.36MB of 7282.00 MB (1.7%) used 
+23:00:31 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:00:31 [motan-memoryStatistic] 125.36MB of 7282.00 MB (1.7%) used 
+23:00:31 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:00:31 [motan-memoryStatistic] 125.36MB of 7282.00 MB (1.7%) used 
+23:00:31 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:00:31 [motan-memoryStatistic] 125.36MB of 7282.00 MB (1.7%) used 
+23:00:31 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:00:31 [motan-memoryStatistic] 125.36MB of 7282.00 MB (1.7%) used 
+23:00:31 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:00:31 [motan-memoryStatistic] 125.36MB of 7282.00 MB (1.7%) used 
+23:00:31 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:00:31 [motan-memoryStatistic] 125.36MB of 7282.00 MB (1.7%) used 
+23:00:31 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:00:31 [motan-memoryStatistic] 125.36MB of 7282.00 MB (1.7%) used 
+23:00:31 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:00:31 [motan-memoryStatistic] 125.36MB of 7282.00 MB (1.7%) used 
+23:00:31 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:00:31 [motan-memoryStatistic] 125.36MB of 7282.00 MB (1.7%) used 
+23:00:31 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:00:31 [motan-memoryStatistic] 125.36MB of 7282.00 MB (1.7%) used 
+23:00:31 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:00:31 [motan-memoryStatistic] 125.36MB of 7282.00 MB (1.7%) used 
+23:00:31 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:00:31 [motan-memoryStatistic] 125.36MB of 7282.00 MB (1.7%) used 
+23:00:31 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:00:31 [motan-memoryStatistic] 125.36MB of 7282.00 MB (1.7%) used 
+23:00:31 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:00:31 [motan-memoryStatistic] 125.36MB of 7282.00 MB (1.7%) used 
+23:00:31 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:00:31 [motan-memoryStatistic] 127.85MB of 7282.00 MB (1.8%) used 
+23:00:31 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:00:31 [motan-memoryStatistic] 127.85MB of 7282.00 MB (1.8%) used 
+23:00:31 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:00:31 [motan-memoryStatistic] 127.85MB of 7282.00 MB (1.8%) used 
+23:00:31 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:00:31 [motan-memoryStatistic] 127.85MB of 7282.00 MB (1.8%) used 
+23:00:31 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:00:31 [motan-memoryStatistic] 127.85MB of 7282.00 MB (1.8%) used 
+23:00:31 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:00:31 [motan-memoryStatistic] 127.85MB of 7282.00 MB (1.8%) used 
+23:00:31 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:00:31 [motan-memoryStatistic] 127.85MB of 7282.00 MB (1.8%) used 
+23:00:31 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:00:31 [motan-memoryStatistic] 127.85MB of 7282.00 MB (1.8%) used 
+23:00:31 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:00:31 [motan-memoryStatistic] 127.85MB of 7282.00 MB (1.8%) used 
+23:00:31 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:00:31 [motan-memoryStatistic] 127.85MB of 7282.00 MB (1.8%) used 
+23:00:31 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:00:31 [motan-memoryStatistic] 127.85MB of 7282.00 MB (1.8%) used 
+23:00:31 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:00:31 [motan-memoryStatistic] 127.85MB of 7282.00 MB (1.8%) used 
+23:00:31 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:00:31 [motan-memoryStatistic] 127.85MB of 7282.00 MB (1.8%) used 
+23:00:31 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:00:31 [motan-memoryStatistic] 127.85MB of 7282.00 MB (1.8%) used 
+23:00:31 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:00:31 [motan-memoryStatistic] 127.85MB of 7282.00 MB (1.8%) used 
+23:00:31 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:00:31 [motan-memoryStatistic] 127.85MB of 7282.00 MB (1.8%) used 
+23:00:31 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:00:31 [motan-memoryStatistic] 127.85MB of 7282.00 MB (1.8%) used 
+23:00:31 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:00:31 [motan-memoryStatistic] 127.85MB of 7282.00 MB (1.8%) used 
+23:00:31 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:00:31 [motan-memoryStatistic] 127.85MB of 7282.00 MB (1.8%) used 
+23:00:31 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:00:31 [motan-memoryStatistic] 127.85MB of 7282.00 MB (1.8%) used 
+23:00:31 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:00:31 [motan-memoryStatistic] 127.85MB of 7282.00 MB (1.8%) used 
+23:00:31 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:00:31 [motan-memoryStatistic] 127.85MB of 7282.00 MB (1.8%) used 
+23:00:31 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:00:31 [motan-memoryStatistic] 127.85MB of 7282.00 MB (1.8%) used 
+23:00:31 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:00:31 [motan-memoryStatistic] 127.85MB of 7282.00 MB (1.8%) used 
+23:00:31 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:00:31 [motan-memoryStatistic] 127.85MB of 7282.00 MB (1.8%) used 
+23:00:31 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:00:31 [motan-memoryStatistic] 127.85MB of 7282.00 MB (1.8%) used 
+23:00:31 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:00:31 [motan-memoryStatistic] 127.85MB of 7282.00 MB (1.8%) used 
+23:00:31 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:00:31 [motan-memoryStatistic] 127.85MB of 7282.00 MB (1.8%) used 
+23:00:31 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:00:31 [motan-memoryStatistic] 127.85MB of 7282.00 MB (1.8%) used 
+23:00:31 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:00:31 [motan-memoryStatistic] 127.85MB of 7282.00 MB (1.8%) used 
+23:00:31 [motan-totalAccessStatistic] app: motan module: motan total_count: 0 slow_count: 0 biz_excp: 0 other_excp: 0 avg_time: 0.00ms biz_time: 0.00ms avg_tps: 0
+23:00:31 [motan-memoryStatistic] 127.85MB of 7282.00 MB (1.8%) used 

@@ -1,0 +1,163 @@
+2020-09-06 22:32:26 [INFO] AllSpiInitialization init.
+2020-09-06 22:32:26 [INFO] AllSpiInitialization init finish.
+2020-09-06 22:32:27 [INFO] ClusterSupport config change notify: registry=local://127.0.0.1:0/com.weibo.api.motan.registry.RegistryService service=motan://192.168.43.55:0/testgroup/com.weibo.motan.demo.service.MotanDemoService/1.0/referer urls=[motan://127.0.0.1:8002/testgroup/com.weibo.motan.demo.service.MotanDemoService/1.0/service]
+2020-09-06 22:32:27 [INFO] refresh weight. weight=
+2020-09-06 22:32:27 [INFO] ignore weightString:
+2020-09-06 22:32:27 [INFO] ShutdownHook is initialized
+2020-09-06 22:32:27 [INFO] add resource class com.weibo.api.motan.transport.support.HeartbeatClientEndpointManager$2 to list
+2020-09-06 22:32:27 [INFO] NettyEndpointFactory create client: url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService?group=testgroup
+2020-09-06 22:32:28 [INFO] init compress codec
+2020-09-06 22:32:28 [INFO] init nettyclient. url:127.0.0.1-com.weibo.motan.demo.service.MotanDemoService, use codec:DefaultRpcCodec
+2020-09-06 22:32:28 [INFO] NettyChannelHandler channelActive: remote=/127.0.0.1:8002 local=/127.0.0.1:59998
+2020-09-06 22:32:28 [INFO] NettyChannelHandler channelActive: remote=/127.0.0.1:8002 local=/127.0.0.1:59999
+2020-09-06 22:32:28 [INFO] NettyClient finish Open: url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService?group=testgroup
+2020-09-06 22:32:28 [INFO] add resource class com.weibo.api.motan.util.StatsUtil$2 to list
+2020-09-06 22:32:28 [INFO] DefaultRpcReferer node init Success: [DefaultRpcReferer] url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService?group=testgroup
+2020-09-06 22:32:28 [INFO] DefaultRpcProtocol refer Success: url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService?group=testgroup, cost:637
+2020-09-06 22:32:28 [INFO] Use direct urls, refUrl=motan://192.168.43.55:0/com.weibo.motan.demo.service.MotanDemoService?group=testgroup, directUrls=[motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService?group=testgroup]
+2020-09-06 22:32:28 [INFO] cluster init cost 673, refer size:1, cluster:motan://192.168.43.55:0/com.weibo.motan.demo.service.MotanDemoService?group=testgroup
+2020-09-06 22:32:28 [INFO] ClusterSupport config change notify: registry=local://127.0.0.1:0/com.weibo.api.motan.registry.RegistryService service=motan://192.168.43.55:0/testgroup/com.weibo.motan.demo.service.MotanDemoService/1.0/referer urls=[motan://127.0.0.1:8002/testgroup/com.weibo.motan.demo.service.MotanDemoService/1.0/service]
+2020-09-06 22:32:28 [INFO] refresh weight. weight=
+2020-09-06 22:32:28 [INFO] ignore weightString:
+2020-09-06 22:32:28 [INFO] NettyEndpointFactory create client: url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService?group=testgroup
+2020-09-06 22:32:28 [INFO] init nettyclient. url:127.0.0.1-com.weibo.motan.demo.service.MotanDemoService, use codec:DefaultRpcCodec
+2020-09-06 22:32:28 [INFO] NettyChannelHandler channelActive: remote=/127.0.0.1:8002 local=/127.0.0.1:60000
+2020-09-06 22:32:28 [INFO] NettyChannelHandler channelActive: remote=/127.0.0.1:8002 local=/127.0.0.1:60001
+2020-09-06 22:32:28 [INFO] NettyClient finish Open: url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService?group=testgroup
+2020-09-06 22:32:28 [INFO] DefaultRpcReferer node init Success: [DefaultRpcReferer] url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService?group=testgroup
+2020-09-06 22:32:28 [INFO] DefaultRpcProtocol refer Success: url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService?group=testgroup, cost:3
+2020-09-06 22:32:28 [INFO] Use direct urls, refUrl=motan://192.168.43.55:0/com.weibo.motan.demo.service.MotanDemoService?group=testgroup, directUrls=[motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService?group=testgroup]
+2020-09-06 22:32:28 [INFO] cluster init cost 4, refer size:1, cluster:motan://192.168.43.55:0/com.weibo.motan.demo.service.MotanDemoService?group=testgroup
+2020-09-06 22:32:28 [INFO] [DirectRegistry] Listener (com.weibo.api.motan.cluster.support.ClusterSupport@1698fc68) will subscribe to url (motan://192.168.43.55:0/com.weibo.motan.demo.service.MotanDemoService?group=motan-demo-rpc) in Registry [direct://127.0.0.1:8002/default_rpc/com.weibo.api.motan.registry.RegistryService/1.0/service]
+2020-09-06 22:32:28 [INFO] ClusterSupport config change notify: registry=direct://127.0.0.1:8002/com.weibo.api.motan.registry.RegistryService service=motan://192.168.43.55:0/motan-demo-rpc/com.weibo.motan.demo.service.MotanDemoService/1.0/referer urls=[motan://127.0.0.1:8002/motan-demo-rpc/com.weibo.motan.demo.service.MotanDemoService/1.0/service]
+2020-09-06 22:32:28 [INFO] refresh weight. weight=
+2020-09-06 22:32:28 [INFO] ignore weightString:
+2020-09-06 22:32:28 [INFO] NettyEndpointFactory create client: url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService?group=motan-demo-rpc
+2020-09-06 22:32:28 [INFO] init nettyclient. url:127.0.0.1-com.weibo.motan.demo.service.MotanDemoService, use codec:DefaultRpcCodec
+2020-09-06 22:32:28 [INFO] NettyChannelHandler channelActive: remote=/127.0.0.1:8002 local=/127.0.0.1:60002
+2020-09-06 22:32:28 [INFO] NettyChannelHandler channelActive: remote=/127.0.0.1:8002 local=/127.0.0.1:60003
+2020-09-06 22:32:28 [INFO] NettyClient finish Open: url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService?group=motan-demo-rpc
+2020-09-06 22:32:28 [INFO] DefaultRpcReferer node init Success: [DefaultRpcReferer] url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService?group=motan-demo-rpc
+2020-09-06 22:32:28 [INFO] DefaultRpcProtocol refer Success: url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService?group=motan-demo-rpc, cost:3
+2020-09-06 22:32:28 [INFO] cluster init cost 12, refer size:1, cluster:motan://192.168.43.55:0/com.weibo.motan.demo.service.MotanDemoService?group=motan-demo-rpc
+2020-09-06 22:32:28 [INFO] [DirectRegistry] Listener (com.weibo.api.motan.cluster.support.ClusterSupport@65b3a85a) will subscribe to url (motan://192.168.43.55:0/com.weibo.motan.demo.service.MotanDemoService?group=motan-demo-rpc) in Registry [direct://127.0.0.1:8002/default_rpc/com.weibo.api.motan.registry.RegistryService/1.0/service]
+2020-09-06 22:32:28 [INFO] ClusterSupport config change notify: registry=direct://127.0.0.1:8002/com.weibo.api.motan.registry.RegistryService service=motan://192.168.43.55:0/motan-demo-rpc/com.weibo.motan.demo.service.MotanDemoService/1.0/referer urls=[motan://127.0.0.1:8002/motan-demo-rpc/com.weibo.motan.demo.service.MotanDemoService/1.0/service]
+2020-09-06 22:32:28 [INFO] refresh weight. weight=
+2020-09-06 22:32:28 [INFO] ignore weightString:
+2020-09-06 22:32:28 [INFO] NettyEndpointFactory create client: url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService?group=motan-demo-rpc
+2020-09-06 22:32:28 [INFO] init nettyclient. url:127.0.0.1-com.weibo.motan.demo.service.MotanDemoService, use codec:DefaultRpcCodec
+2020-09-06 22:32:28 [INFO] NettyChannelHandler channelActive: remote=/127.0.0.1:8002 local=/127.0.0.1:60004
+2020-09-06 22:32:28 [INFO] NettyChannelHandler channelActive: remote=/127.0.0.1:8002 local=/127.0.0.1:60005
+2020-09-06 22:32:28 [INFO] NettyClient finish Open: url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService?group=motan-demo-rpc
+2020-09-06 22:32:28 [INFO] DefaultRpcReferer node init Success: [DefaultRpcReferer] url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService?group=motan-demo-rpc
+2020-09-06 22:32:28 [INFO] DefaultRpcProtocol refer Success: url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService?group=motan-demo-rpc, cost:4
+2020-09-06 22:32:28 [INFO] cluster init cost 4, refer size:1, cluster:motan://192.168.43.55:0/com.weibo.motan.demo.service.MotanDemoService?group=motan-demo-rpc
+2020-09-06 22:32:29 [INFO] motan handler
+2020-09-06 22:33:30 [INFO] AllSpiInitialization init.
+2020-09-06 22:33:30 [INFO] AllSpiInitialization init finish.
+2020-09-06 22:33:31 [INFO] ClusterSupport config change notify: registry=local://127.0.0.1:0/com.weibo.api.motan.registry.RegistryService service=motan://192.168.43.55:0/testgroup/com.weibo.motan.demo.service.MotanDemoService/1.0/referer urls=[motan://127.0.0.1:8002/testgroup/com.weibo.motan.demo.service.MotanDemoService/1.0/service]
+2020-09-06 22:33:31 [INFO] refresh weight. weight=
+2020-09-06 22:33:31 [INFO] ignore weightString:
+2020-09-06 22:33:31 [INFO] ShutdownHook is initialized
+2020-09-06 22:33:31 [INFO] add resource class com.weibo.api.motan.transport.support.HeartbeatClientEndpointManager$2 to list
+2020-09-06 22:33:31 [INFO] NettyEndpointFactory create client: url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService?group=testgroup
+2020-09-06 22:33:31 [INFO] init compress codec
+2020-09-06 22:33:31 [INFO] init nettyclient. url:127.0.0.1-com.weibo.motan.demo.service.MotanDemoService, use codec:DefaultRpcCodec
+2020-09-06 22:33:31 [INFO] NettyChannelHandler channelActive: remote=/127.0.0.1:8002 local=/127.0.0.1:60040
+2020-09-06 22:33:31 [INFO] NettyChannelHandler channelActive: remote=/127.0.0.1:8002 local=/127.0.0.1:60041
+2020-09-06 22:33:31 [INFO] NettyClient finish Open: url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService?group=testgroup
+2020-09-06 22:33:31 [INFO] add resource class com.weibo.api.motan.util.StatsUtil$2 to list
+2020-09-06 22:33:31 [INFO] DefaultRpcReferer node init Success: [DefaultRpcReferer] url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService?group=testgroup
+2020-09-06 22:33:31 [INFO] DefaultRpcProtocol refer Success: url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService?group=testgroup, cost:341
+2020-09-06 22:33:31 [INFO] Use direct urls, refUrl=motan://192.168.43.55:0/com.weibo.motan.demo.service.MotanDemoService?group=testgroup, directUrls=[motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService?group=testgroup]
+2020-09-06 22:33:31 [INFO] cluster init cost 354, refer size:1, cluster:motan://192.168.43.55:0/com.weibo.motan.demo.service.MotanDemoService?group=testgroup
+2020-09-06 22:33:31 [INFO] ClusterSupport config change notify: registry=local://127.0.0.1:0/com.weibo.api.motan.registry.RegistryService service=motan://192.168.43.55:0/testgroup/com.weibo.motan.demo.service.MotanDemoService/1.0/referer urls=[motan://127.0.0.1:8002/testgroup/com.weibo.motan.demo.service.MotanDemoService/1.0/service]
+2020-09-06 22:33:31 [INFO] refresh weight. weight=
+2020-09-06 22:33:31 [INFO] ignore weightString:
+2020-09-06 22:33:31 [INFO] NettyEndpointFactory create client: url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService?group=testgroup
+2020-09-06 22:33:31 [INFO] init nettyclient. url:127.0.0.1-com.weibo.motan.demo.service.MotanDemoService, use codec:DefaultRpcCodec
+2020-09-06 22:33:31 [INFO] NettyChannelHandler channelActive: remote=/127.0.0.1:8002 local=/127.0.0.1:60042
+2020-09-06 22:33:31 [INFO] NettyChannelHandler channelActive: remote=/127.0.0.1:8002 local=/127.0.0.1:60043
+2020-09-06 22:33:31 [INFO] NettyClient finish Open: url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService?group=testgroup
+2020-09-06 22:33:31 [INFO] DefaultRpcReferer node init Success: [DefaultRpcReferer] url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService?group=testgroup
+2020-09-06 22:33:31 [INFO] DefaultRpcProtocol refer Success: url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService?group=testgroup, cost:4
+2020-09-06 22:33:31 [INFO] Use direct urls, refUrl=motan://192.168.43.55:0/com.weibo.motan.demo.service.MotanDemoService?group=testgroup, directUrls=[motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService?group=testgroup]
+2020-09-06 22:33:31 [INFO] cluster init cost 4, refer size:1, cluster:motan://192.168.43.55:0/com.weibo.motan.demo.service.MotanDemoService?group=testgroup
+2020-09-06 22:33:31 [INFO] [DirectRegistry] Listener (com.weibo.api.motan.cluster.support.ClusterSupport@77cb9cd1) will subscribe to url (motan://192.168.43.55:0/com.weibo.motan.demo.service.MotanDemoService?group=motan-demo-rpc) in Registry [direct://127.0.0.1:8002/default_rpc/com.weibo.api.motan.registry.RegistryService/1.0/service]
+2020-09-06 22:33:31 [INFO] ClusterSupport config change notify: registry=direct://127.0.0.1:8002/com.weibo.api.motan.registry.RegistryService service=motan://192.168.43.55:0/motan-demo-rpc/com.weibo.motan.demo.service.MotanDemoService/1.0/referer urls=[motan://127.0.0.1:8002/motan-demo-rpc/com.weibo.motan.demo.service.MotanDemoService/1.0/service]
+2020-09-06 22:33:31 [INFO] refresh weight. weight=
+2020-09-06 22:33:31 [INFO] ignore weightString:
+2020-09-06 22:33:31 [INFO] NettyEndpointFactory create client: url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService?group=motan-demo-rpc
+2020-09-06 22:33:31 [INFO] init nettyclient. url:127.0.0.1-com.weibo.motan.demo.service.MotanDemoService, use codec:DefaultRpcCodec
+2020-09-06 22:33:31 [INFO] NettyChannelHandler channelActive: remote=/127.0.0.1:8002 local=/127.0.0.1:60044
+2020-09-06 22:33:31 [INFO] NettyClient finish Open: url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService?group=motan-demo-rpc
+2020-09-06 22:33:31 [INFO] NettyChannelHandler channelActive: remote=/127.0.0.1:8002 local=/127.0.0.1:60045
+2020-09-06 22:33:31 [INFO] DefaultRpcReferer node init Success: [DefaultRpcReferer] url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService?group=motan-demo-rpc
+2020-09-06 22:33:31 [INFO] DefaultRpcProtocol refer Success: url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService?group=motan-demo-rpc, cost:3
+2020-09-06 22:33:31 [INFO] cluster init cost 9, refer size:1, cluster:motan://192.168.43.55:0/com.weibo.motan.demo.service.MotanDemoService?group=motan-demo-rpc
+2020-09-06 22:33:31 [INFO] [DirectRegistry] Listener (com.weibo.api.motan.cluster.support.ClusterSupport@4e61e4c2) will subscribe to url (motan://192.168.43.55:0/com.weibo.motan.demo.service.MotanDemoService?group=motan-demo-rpc) in Registry [direct://127.0.0.1:8002/default_rpc/com.weibo.api.motan.registry.RegistryService/1.0/service]
+2020-09-06 22:33:31 [INFO] ClusterSupport config change notify: registry=direct://127.0.0.1:8002/com.weibo.api.motan.registry.RegistryService service=motan://192.168.43.55:0/motan-demo-rpc/com.weibo.motan.demo.service.MotanDemoService/1.0/referer urls=[motan://127.0.0.1:8002/motan-demo-rpc/com.weibo.motan.demo.service.MotanDemoService/1.0/service]
+2020-09-06 22:33:31 [INFO] refresh weight. weight=
+2020-09-06 22:33:31 [INFO] ignore weightString:
+2020-09-06 22:33:31 [INFO] NettyEndpointFactory create client: url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService?group=motan-demo-rpc
+2020-09-06 22:33:31 [INFO] init nettyclient. url:127.0.0.1-com.weibo.motan.demo.service.MotanDemoService, use codec:DefaultRpcCodec
+2020-09-06 22:33:31 [INFO] NettyChannelHandler channelActive: remote=/127.0.0.1:8002 local=/127.0.0.1:60046
+2020-09-06 22:33:31 [INFO] NettyChannelHandler channelActive: remote=/127.0.0.1:8002 local=/127.0.0.1:60047
+2020-09-06 22:33:31 [INFO] NettyClient finish Open: url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService?group=motan-demo-rpc
+2020-09-06 22:33:31 [INFO] DefaultRpcReferer node init Success: [DefaultRpcReferer] url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService?group=motan-demo-rpc
+2020-09-06 22:33:31 [INFO] DefaultRpcProtocol refer Success: url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService?group=motan-demo-rpc, cost:4
+2020-09-06 22:33:31 [INFO] cluster init cost 4, refer size:1, cluster:motan://192.168.43.55:0/com.weibo.motan.demo.service.MotanDemoService?group=motan-demo-rpc
+2020-09-06 22:45:35 [INFO] AllSpiInitialization init.
+2020-09-06 22:45:35 [INFO] AllSpiInitialization init finish.
+2020-09-06 22:45:36 [INFO] ClusterSupport config change notify: registry=local://127.0.0.1:0/com.weibo.api.motan.registry.RegistryService service=motan://192.168.43.55:0/testgroup/com.weibo.motan.demo.service.MotanDemoService/1.0/referer urls=[motan://127.0.0.1:8002/testgroup/com.weibo.motan.demo.service.MotanDemoService/1.0/service]
+2020-09-06 22:45:36 [INFO] refresh weight. weight=
+2020-09-06 22:45:36 [INFO] ignore weightString:
+2020-09-06 22:45:36 [INFO] ShutdownHook is initialized
+2020-09-06 22:45:36 [INFO] add resource class com.weibo.api.motan.transport.support.HeartbeatClientEndpointManager$2 to list
+2020-09-06 22:45:36 [INFO] NettyEndpointFactory create client: url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService?group=testgroup
+2020-09-06 22:45:37 [INFO] init compress codec
+2020-09-06 22:45:37 [INFO] init nettyclient. url:127.0.0.1-com.weibo.motan.demo.service.MotanDemoService, use codec:DefaultRpcCodec
+2020-09-06 22:45:37 [INFO] NettyChannelHandler channelActive: remote=/127.0.0.1:8002 local=/127.0.0.1:60404
+2020-09-06 22:45:37 [INFO] NettyChannelHandler channelActive: remote=/127.0.0.1:8002 local=/127.0.0.1:60405
+2020-09-06 22:45:37 [INFO] NettyClient finish Open: url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService?group=testgroup
+2020-09-06 22:45:37 [INFO] add resource class com.weibo.api.motan.util.StatsUtil$2 to list
+2020-09-06 22:45:37 [INFO] DefaultRpcReferer node init Success: [DefaultRpcReferer] url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService?group=testgroup
+2020-09-06 22:45:37 [INFO] DefaultRpcProtocol refer Success: url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService?group=testgroup, cost:347
+2020-09-06 22:45:37 [INFO] Use direct urls, refUrl=motan://192.168.43.55:0/com.weibo.motan.demo.service.MotanDemoService?group=testgroup, directUrls=[motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService?group=testgroup]
+2020-09-06 22:45:37 [INFO] cluster init cost 360, refer size:1, cluster:motan://192.168.43.55:0/com.weibo.motan.demo.service.MotanDemoService?group=testgroup
+2020-09-06 22:45:37 [INFO] ClusterSupport config change notify: registry=local://127.0.0.1:0/com.weibo.api.motan.registry.RegistryService service=motan://192.168.43.55:0/testgroup/com.weibo.motan.demo.service.MotanDemoService/1.0/referer urls=[motan://127.0.0.1:8002/testgroup/com.weibo.motan.demo.service.MotanDemoService/1.0/service]
+2020-09-06 22:45:37 [INFO] refresh weight. weight=
+2020-09-06 22:45:37 [INFO] ignore weightString:
+2020-09-06 22:45:37 [INFO] NettyEndpointFactory create client: url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService?group=testgroup
+2020-09-06 22:45:37 [INFO] init nettyclient. url:127.0.0.1-com.weibo.motan.demo.service.MotanDemoService, use codec:DefaultRpcCodec
+2020-09-06 22:45:37 [INFO] NettyChannelHandler channelActive: remote=/127.0.0.1:8002 local=/127.0.0.1:60406
+2020-09-06 22:45:37 [INFO] NettyClient finish Open: url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService?group=testgroup
+2020-09-06 22:45:37 [INFO] NettyChannelHandler channelActive: remote=/127.0.0.1:8002 local=/127.0.0.1:60407
+2020-09-06 22:45:37 [INFO] DefaultRpcReferer node init Success: [DefaultRpcReferer] url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService?group=testgroup
+2020-09-06 22:45:37 [INFO] DefaultRpcProtocol refer Success: url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService?group=testgroup, cost:3
+2020-09-06 22:45:37 [INFO] Use direct urls, refUrl=motan://192.168.43.55:0/com.weibo.motan.demo.service.MotanDemoService?group=testgroup, directUrls=[motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService?group=testgroup]
+2020-09-06 22:45:37 [INFO] cluster init cost 3, refer size:1, cluster:motan://192.168.43.55:0/com.weibo.motan.demo.service.MotanDemoService?group=testgroup
+2020-09-06 22:45:37 [INFO] [DirectRegistry] Listener (com.weibo.api.motan.cluster.support.ClusterSupport@35636217) will subscribe to url (motan://192.168.43.55:0/com.weibo.motan.demo.service.MotanDemoService?group=motan-demo-rpc) in Registry [direct://127.0.0.1:8002/default_rpc/com.weibo.api.motan.registry.RegistryService/1.0/service]
+2020-09-06 22:45:37 [INFO] ClusterSupport config change notify: registry=direct://127.0.0.1:8002/com.weibo.api.motan.registry.RegistryService service=motan://192.168.43.55:0/motan-demo-rpc/com.weibo.motan.demo.service.MotanDemoService/1.0/referer urls=[motan://127.0.0.1:8002/motan-demo-rpc/com.weibo.motan.demo.service.MotanDemoService/1.0/service]
+2020-09-06 22:45:37 [INFO] refresh weight. weight=
+2020-09-06 22:45:37 [INFO] ignore weightString:
+2020-09-06 22:45:37 [INFO] NettyEndpointFactory create client: url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService?group=motan-demo-rpc
+2020-09-06 22:45:37 [INFO] init nettyclient. url:127.0.0.1-com.weibo.motan.demo.service.MotanDemoService, use codec:DefaultRpcCodec
+2020-09-06 22:45:37 [INFO] NettyChannelHandler channelActive: remote=/127.0.0.1:8002 local=/127.0.0.1:60408
+2020-09-06 22:45:37 [INFO] NettyClient finish Open: url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService?group=motan-demo-rpc
+2020-09-06 22:45:37 [INFO] NettyChannelHandler channelActive: remote=/127.0.0.1:8002 local=/127.0.0.1:60409
+2020-09-06 22:45:37 [INFO] DefaultRpcReferer node init Success: [DefaultRpcReferer] url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService?group=motan-demo-rpc
+2020-09-06 22:45:37 [INFO] DefaultRpcProtocol refer Success: url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService?group=motan-demo-rpc, cost:3
+2020-09-06 22:45:37 [INFO] cluster init cost 8, refer size:1, cluster:motan://192.168.43.55:0/com.weibo.motan.demo.service.MotanDemoService?group=motan-demo-rpc
+2020-09-06 22:45:37 [INFO] [DirectRegistry] Listener (com.weibo.api.motan.cluster.support.ClusterSupport@36dfbdaf) will subscribe to url (motan://192.168.43.55:0/com.weibo.motan.demo.service.MotanDemoService?group=motan-demo-rpc) in Registry [direct://127.0.0.1:8002/default_rpc/com.weibo.api.motan.registry.RegistryService/1.0/service]
+2020-09-06 22:45:37 [INFO] ClusterSupport config change notify: registry=direct://127.0.0.1:8002/com.weibo.api.motan.registry.RegistryService service=motan://192.168.43.55:0/motan-demo-rpc/com.weibo.motan.demo.service.MotanDemoService/1.0/referer urls=[motan://127.0.0.1:8002/motan-demo-rpc/com.weibo.motan.demo.service.MotanDemoService/1.0/service]
+2020-09-06 22:45:37 [INFO] refresh weight. weight=
+2020-09-06 22:45:37 [INFO] ignore weightString:
+2020-09-06 22:45:37 [INFO] NettyEndpointFactory create client: url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService?group=motan-demo-rpc
+2020-09-06 22:45:37 [INFO] init nettyclient. url:127.0.0.1-com.weibo.motan.demo.service.MotanDemoService, use codec:DefaultRpcCodec
+2020-09-06 22:45:37 [INFO] NettyChannelHandler channelActive: remote=/127.0.0.1:8002 local=/127.0.0.1:60410
+2020-09-06 22:45:37 [INFO] NettyClient finish Open: url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService?group=motan-demo-rpc
+2020-09-06 22:45:37 [INFO] NettyChannelHandler channelActive: remote=/127.0.0.1:8002 local=/127.0.0.1:60411
+2020-09-06 22:45:37 [INFO] DefaultRpcReferer node init Success: [DefaultRpcReferer] url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService?group=motan-demo-rpc
+2020-09-06 22:45:37 [INFO] DefaultRpcProtocol refer Success: url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService?group=motan-demo-rpc, cost:4
+2020-09-06 22:45:37 [INFO] cluster init cost 4, refer size:1, cluster:motan://192.168.43.55:0/com.weibo.motan.demo.service.MotanDemoService?group=motan-demo-rpc

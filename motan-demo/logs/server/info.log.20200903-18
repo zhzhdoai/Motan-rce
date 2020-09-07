@@ -1,0 +1,6 @@
+2020-09-03 18:07:42 [INFO] NettyChannelHandler channelActive: remote=/127.0.0.1:51983 local=/127.0.0.1:8002
+2020-09-03 18:07:42 [INFO] NettyChannelHandler channelInactive: remote=/127.0.0.1:51983 local=/127.0.0.1:8002
+2020-09-03 18:07:49 [INFO] NettyChannelHandler channelActive: remote=/127.0.0.1:51991 local=/127.0.0.1:8002
+2020-09-03 18:07:49 [INFO] NettyChannelHandler channelInactive: remote=/127.0.0.1:51991 local=/127.0.0.1:8002
+2020-09-03 18:08:07 [INFO] NettyChannelHandler channelActive: remote=/127.0.0.1:52013 local=/127.0.0.1:8002
+2020-09-03 18:08:07 [INFO] NettyChannelHandler channelInactive: remote=/127.0.0.1:52013 local=/127.0.0.1:8002

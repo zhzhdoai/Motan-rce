@@ -1,0 +1,152 @@
+2020-09-03 17:09:29 [WARN] FailoverHaStrategy Call false for request:com.weibo.motan.demo.service.MotanDemoService.commonTest(java.lang.Object) requestId=1676731337751396353 error=error_message: com.weibo.api.motan.rpc.DefaultResponseFuture task cancel: serverPort=127.0.0.1:8002 requestId=1676731337751396353 interface=com.weibo.motan.demo.service.MotanDemoService method=commonTest(java.lang.Object) cost=2013, status: 503, error_code: 10001,r=null
+2020-09-03 17:09:42 [WARN] NettyClient heartbeat Error: state=UNINIT url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService
+2020-09-03 17:09:43 [WARN] NettyClient heartbeat Error: state=UNINIT url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService
+2020-09-03 17:09:43 [WARN] NettyClient heartbeat Error: state=UNINIT url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService
+2020-09-03 17:09:44 [WARN] NettyClient heartbeat Error: state=UNINIT url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService
+2020-09-03 17:09:44 [WARN] NettyClient heartbeat Error: state=UNINIT url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService
+2020-09-03 17:09:45 [WARN] NettyClient heartbeat Error: state=UNINIT url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService
+2020-09-03 17:09:45 [WARN] NettyClient heartbeat Error: state=UNINIT url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService
+2020-09-03 20:09:15 [WARN] NettyClient heartbeat Error: state=UNINIT url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService
+2020-09-03 20:09:16 [WARN] NettyClient heartbeat Error: state=UNINIT url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService
+2020-09-03 20:09:16 [WARN] NettyClient heartbeat Error: state=UNINIT url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService
+2020-09-03 20:09:17 [WARN] NettyClient heartbeat Error: state=UNINIT url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService
+2020-09-03 20:09:17 [WARN] NettyClient heartbeat Error: state=UNINIT url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService
+2020-09-03 20:09:18 [WARN] NettyClient heartbeat Error: state=UNINIT url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService
+2020-09-03 20:09:18 [WARN] NettyClient heartbeat Error: state=UNINIT url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService
+2020-09-03 20:09:19 [WARN] NettyClient heartbeat Error: state=UNINIT url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService
+2020-09-03 20:09:19 [WARN] NettyClient heartbeat Error: state=UNINIT url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService
+2020-09-03 20:09:20 [WARN] NettyClient heartbeat Error: state=UNINIT url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService
+2020-09-03 20:10:02 [WARN] NettyClient heartbeat Error: state=UNINIT url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService
+2020-09-03 20:10:02 [WARN] NettyClient heartbeat Error: state=UNINIT url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService
+2020-09-03 20:10:03 [WARN] NettyClient heartbeat Error: state=UNINIT url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService
+2020-09-03 20:10:03 [WARN] NettyClient heartbeat Error: state=UNINIT url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService
+2020-09-03 20:10:04 [WARN] NettyClient heartbeat Error: state=UNINIT url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService
+2020-09-03 20:10:04 [WARN] NettyClient heartbeat Error: state=UNINIT url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService
+2020-09-03 20:10:05 [WARN] NettyClient heartbeat Error: state=UNINIT url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService
+2020-09-03 20:10:05 [WARN] NettyClient heartbeat Error: state=UNINIT url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService
+2020-09-03 20:10:06 [WARN] NettyClient heartbeat Error: state=UNINIT url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService
+2020-09-03 20:10:06 [WARN] NettyClient heartbeat Error: state=UNINIT url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService
+2020-09-03 20:10:07 [WARN] FailoverHaStrategy Call false for request:com.weibo.motan.demo.service.MotanDemoService.commonTest(java.lang.Object) requestId=1676814589465985035 error=error_message: com.weibo.api.motan.rpc.DefaultResponseFuture request timeout: serverPort=127.0.0.1:8002 requestId=1676814589465985035 interface=com.weibo.motan.demo.service.MotanDemoService method=commonTest(java.lang.Object) cost=201, status: 503, error_code: 10003,r=null
+2020-09-03 20:10:07 [WARN] FailoverHaStrategy Call false for request:com.weibo.motan.demo.service.MotanDemoService.commonTest(java.lang.Object) requestId=1676814589465985035 error=error_message: com.weibo.api.motan.rpc.DefaultResponseFuture request timeout: serverPort=127.0.0.1:8002 requestId=1676814589465985035 interface=com.weibo.motan.demo.service.MotanDemoService method=commonTest(java.lang.Object) cost=203, status: 503, error_code: 10003,r=null
+2020-09-03 20:10:55 [WARN] NettyClient heartbeat Error: state=UNINIT url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService
+2020-09-03 20:10:56 [WARN] NettyClient heartbeat Error: state=UNINIT url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService
+2020-09-03 20:10:56 [WARN] NettyClient heartbeat Error: state=UNINIT url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService
+2020-09-03 20:10:57 [WARN] NettyClient heartbeat Error: state=UNINIT url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService
+2020-09-03 20:10:57 [WARN] NettyClient heartbeat Error: state=UNINIT url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService
+2020-09-03 20:10:58 [WARN] NettyClient heartbeat Error: state=UNINIT url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService
+2020-09-03 20:10:58 [WARN] NettyClient heartbeat Error: state=UNINIT url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService
+2020-09-03 20:10:59 [WARN] NettyClient heartbeat Error: state=UNINIT url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService
+2020-09-03 20:10:59 [WARN] NettyClient heartbeat Error: state=UNINIT url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService
+2020-09-03 20:11:00 [WARN] NettyClient heartbeat Error: state=UNINIT url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService
+2020-09-03 20:11:01 [WARN] FailoverHaStrategy Call false for request:com.weibo.motan.demo.service.MotanDemoService.commonTest(java.lang.Object) requestId=1676814645835333643 error=error_message: com.weibo.api.motan.rpc.DefaultResponseFuture request timeout: serverPort=127.0.0.1:8002 requestId=1676814645835333643 interface=com.weibo.motan.demo.service.MotanDemoService method=commonTest(java.lang.Object) cost=204, status: 503, error_code: 10003,r=null
+2020-09-03 20:11:01 [WARN] FailoverHaStrategy Call false for request:com.weibo.motan.demo.service.MotanDemoService.commonTest(java.lang.Object) requestId=1676814645835333643 error=error_message: com.weibo.api.motan.rpc.DefaultResponseFuture request timeout: serverPort=127.0.0.1:8002 requestId=1676814645835333643 interface=com.weibo.motan.demo.service.MotanDemoService method=commonTest(java.lang.Object) cost=202, status: 503, error_code: 10003,r=null
+2020-09-03 20:11:53 [WARN] NettyClient has response from server, but responseFuture not exist, requestId=1676814645835333643
+2020-09-03 20:11:53 [WARN] NettyClient has response from server, but responseFuture not exist, requestId=1676814645835333643
+2020-09-03 20:11:53 [WARN] NettyClient has response from server, but responseFuture not exist, requestId=1676814645835333643
+2020-09-03 20:38:45 [WARN] NettyClient heartbeat Error: state=UNINIT url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService
+2020-09-03 20:38:46 [WARN] NettyClient heartbeat Error: state=UNINIT url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService
+2020-09-03 20:38:46 [WARN] NettyClient heartbeat Error: state=UNINIT url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService
+2020-09-03 20:38:47 [WARN] NettyClient heartbeat Error: state=UNINIT url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService
+2020-09-03 20:38:47 [WARN] NettyClient heartbeat Error: state=UNINIT url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService
+2020-09-03 20:38:48 [WARN] NettyClient heartbeat Error: state=UNINIT url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService
+2020-09-03 20:38:48 [WARN] NettyClient heartbeat Error: state=UNINIT url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService
+2020-09-03 20:38:49 [WARN] NettyClient heartbeat Error: state=UNINIT url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService
+2020-09-03 20:38:49 [WARN] NettyClient heartbeat Error: state=UNINIT url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService
+2020-09-03 20:38:50 [WARN] NettyClient heartbeat Error: state=UNINIT url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService
+2020-09-03 20:38:51 [WARN] FailoverHaStrategy Call false for request:com.weibo.motan.demo.service.MotanDemoService.commonTest(java.lang.Object) requestId=1676816396866027531 error=error_message: com.weibo.api.motan.rpc.DefaultResponseFuture request timeout: serverPort=127.0.0.1:8002 requestId=1676816396866027531 interface=com.weibo.motan.demo.service.MotanDemoService method=commonTest(java.lang.Object) cost=201, status: 503, error_code: 10003,r=null
+2020-09-03 20:38:51 [WARN] FailoverHaStrategy Call false for request:com.weibo.motan.demo.service.MotanDemoService.commonTest(java.lang.Object) requestId=1676816396866027531 error=error_message: com.weibo.api.motan.rpc.DefaultResponseFuture request timeout: serverPort=127.0.0.1:8002 requestId=1676816396866027531 interface=com.weibo.motan.demo.service.MotanDemoService method=commonTest(java.lang.Object) cost=203, status: 503, error_code: 10003,r=null
+2020-09-03 20:40:39 [WARN] NettyClient heartbeat Error: state=UNINIT url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService
+2020-09-03 20:40:40 [WARN] NettyClient heartbeat Error: state=UNINIT url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService
+2020-09-03 20:40:40 [WARN] NettyClient heartbeat Error: state=UNINIT url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService
+2020-09-03 20:40:41 [WARN] NettyClient heartbeat Error: state=UNINIT url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService
+2020-09-03 20:40:41 [WARN] NettyClient heartbeat Error: state=UNINIT url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService
+2020-09-03 20:40:42 [WARN] NettyClient heartbeat Error: state=UNINIT url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService
+2020-09-03 20:40:42 [WARN] NettyClient heartbeat Error: state=UNINIT url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService
+2020-09-03 20:40:43 [WARN] NettyClient heartbeat Error: state=UNINIT url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService
+2020-09-03 20:40:43 [WARN] NettyClient heartbeat Error: state=UNINIT url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService
+2020-09-03 20:40:44 [WARN] NettyClient heartbeat Error: state=UNINIT url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService
+2020-09-03 20:40:45 [WARN] FailoverHaStrategy Call false for request:com.weibo.motan.demo.service.MotanDemoService.commonTest(java.lang.Object) requestId=1676816516568317963 error=error_message: com.weibo.api.motan.rpc.DefaultResponseFuture request timeout: serverPort=127.0.0.1:8002 requestId=1676816516568317963 interface=com.weibo.motan.demo.service.MotanDemoService method=commonTest(java.lang.Object) cost=204, status: 503, error_code: 10003,r=null
+2020-09-03 20:40:45 [WARN] FailoverHaStrategy Call false for request:com.weibo.motan.demo.service.MotanDemoService.commonTest(java.lang.Object) requestId=1676816516568317963 error=error_message: com.weibo.api.motan.rpc.DefaultResponseFuture task cancel: serverPort=127.0.0.1:8002 requestId=1676816516568317963 interface=com.weibo.motan.demo.service.MotanDemoService method=commonTest(java.lang.Object) cost=202, status: 503, error_code: 10001,r=null
+2020-09-03 20:58:51 [WARN] NettyClient heartbeat Error: state=UNINIT url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService
+2020-09-03 20:58:52 [WARN] NettyClient heartbeat Error: state=UNINIT url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService
+2020-09-03 20:58:52 [WARN] NettyClient heartbeat Error: state=UNINIT url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService
+2020-09-03 20:58:53 [WARN] NettyClient heartbeat Error: state=UNINIT url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService
+2020-09-03 20:58:53 [WARN] NettyClient heartbeat Error: state=UNINIT url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService
+2020-09-03 20:59:07 [WARN] NettyClient heartbeat Error: state=UNINIT url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService
+2020-09-03 20:59:07 [WARN] NettyClient heartbeat Error: state=UNINIT url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService
+2020-09-03 20:59:08 [WARN] NettyClient heartbeat Error: state=UNINIT url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService
+2020-09-03 20:59:08 [WARN] NettyClient heartbeat Error: state=UNINIT url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService
+2020-09-03 20:59:09 [WARN] NettyClient heartbeat Error: state=UNINIT url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService
+2020-09-03 20:59:09 [WARN] NettyClient heartbeat Error: state=UNINIT url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService
+2020-09-03 20:59:10 [WARN] NettyClient heartbeat Error: state=UNINIT url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService
+2020-09-03 20:59:10 [WARN] NettyClient heartbeat Error: state=UNINIT url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService
+2020-09-03 20:59:11 [WARN] NettyClient heartbeat Error: state=UNINIT url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService
+2020-09-03 20:59:50 [WARN] NettyClient heartbeat Error: state=UNINIT url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService
+2020-09-03 20:59:51 [WARN] NettyClient heartbeat Error: state=UNINIT url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService
+2020-09-03 20:59:51 [WARN] NettyClient heartbeat Error: state=UNINIT url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService
+2020-09-03 20:59:52 [WARN] NettyClient heartbeat Error: state=UNINIT url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService
+2020-09-03 20:59:52 [WARN] NettyClient heartbeat Error: state=UNINIT url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService
+2020-09-03 20:59:53 [WARN] NettyClient heartbeat Error: state=UNINIT url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService
+2020-09-03 20:59:53 [WARN] NettyClient heartbeat Error: state=UNINIT url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService
+2020-09-03 20:59:54 [WARN] NettyClient heartbeat Error: state=UNINIT url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService
+2020-09-03 20:59:54 [WARN] NettyClient heartbeat Error: state=UNINIT url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService
+2020-09-03 20:59:55 [WARN] NettyClient heartbeat Error: state=UNINIT url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService
+2020-09-03 21:04:50 [WARN] FailoverHaStrategy Call false for request:com.weibo.motan.demo.service.MotanDemoService.commonTest(java.lang.Object) requestId=1676817723511799819 error=error_message: com.weibo.api.motan.rpc.DefaultResponseFuture task cancel: serverPort=127.0.0.1:8002 requestId=1676817723511799819 interface=com.weibo.motan.demo.service.MotanDemoService method=commonTest(java.lang.Object) cost=5697, status: 503, error_code: 10001,r=null
+2020-09-03 21:07:06 [WARN] NettyClient heartbeat Error: state=UNINIT url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService
+2020-09-03 21:07:07 [WARN] NettyClient heartbeat Error: state=UNINIT url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService
+2020-09-03 21:07:07 [WARN] NettyClient heartbeat Error: state=UNINIT url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService
+2020-09-03 21:07:08 [WARN] NettyClient heartbeat Error: state=UNINIT url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService
+2020-09-03 21:07:08 [WARN] NettyClient heartbeat Error: state=UNINIT url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService
+2020-09-03 21:07:09 [WARN] NettyClient heartbeat Error: state=UNINIT url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService
+2020-09-03 21:07:09 [WARN] NettyClient heartbeat Error: state=UNINIT url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService
+2020-09-03 21:07:10 [WARN] NettyClient heartbeat Error: state=UNINIT url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService
+2020-09-03 21:07:10 [WARN] NettyClient heartbeat Error: state=UNINIT url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService
+2020-09-03 21:07:11 [WARN] NettyClient heartbeat Error: state=UNINIT url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService
+2020-09-03 21:07:12 [WARN] FailoverHaStrategy Call false for request:com.weibo.motan.demo.service.MotanDemoService.commonTest(java.lang.Object) requestId=1676818180652138507 error=error_message: NettyClient getChannel Error: url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService, status: 503, error_code: 10001,r=null
+2020-09-03 21:07:12 [WARN] FailoverHaStrategy Call false for request:com.weibo.motan.demo.service.MotanDemoService.commonTest(java.lang.Object) requestId=1676818180652138507 error=error_message: NettyClient getChannel Error: url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService, status: 503, error_code: 10001,r=null
+2020-09-03 21:08:03 [WARN] NettyClient heartbeat Error: state=UNINIT url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService
+2020-09-03 21:08:03 [WARN] NettyClient heartbeat Error: state=UNINIT url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService
+2020-09-03 21:08:04 [WARN] NettyClient heartbeat Error: state=UNINIT url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService
+2020-09-03 21:08:04 [WARN] NettyClient heartbeat Error: state=UNINIT url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService
+2020-09-03 21:08:05 [WARN] NettyClient heartbeat Error: state=UNINIT url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService
+2020-09-03 21:08:05 [WARN] NettyClient heartbeat Error: state=UNINIT url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService
+2020-09-03 21:08:06 [WARN] NettyClient heartbeat Error: state=UNINIT url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService
+2020-09-03 21:08:06 [WARN] NettyClient heartbeat Error: state=UNINIT url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService
+2020-09-03 21:08:07 [WARN] NettyClient heartbeat Error: state=UNINIT url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService
+2020-09-03 21:08:07 [WARN] NettyClient heartbeat Error: state=UNINIT url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService
+2020-09-03 21:16:42 [WARN] FailoverHaStrategy Call false for request:com.weibo.motan.demo.service.MotanDemoService.commonTest(java.lang.Object) requestId=1676818239452086283 error=error_message: com.weibo.api.motan.rpc.DefaultResponseFuture task cancel: serverPort=127.0.0.1:8002 requestId=1676818239452086283 interface=com.weibo.motan.demo.service.MotanDemoService method=commonTest(java.lang.Object) cost=3113, status: 503, error_code: 10001,r=null
+2020-09-03 21:45:37 [WARN] NettyClient heartbeat Error: state=UNINIT url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService
+2020-09-03 21:45:38 [WARN] NettyClient heartbeat Error: state=UNINIT url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService
+2020-09-03 21:45:38 [WARN] NettyClient heartbeat Error: state=UNINIT url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService
+2020-09-03 21:45:39 [WARN] NettyClient heartbeat Error: state=UNINIT url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService
+2020-09-03 21:45:39 [WARN] NettyClient heartbeat Error: state=UNINIT url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService
+2020-09-03 21:45:40 [WARN] NettyClient heartbeat Error: state=UNINIT url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService
+2020-09-03 21:45:40 [WARN] NettyClient heartbeat Error: state=UNINIT url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService
+2020-09-03 21:45:41 [WARN] NettyClient heartbeat Error: state=UNINIT url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService
+2020-09-03 21:45:41 [WARN] NettyClient heartbeat Error: state=UNINIT url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService
+2020-09-03 21:45:42 [WARN] NettyClient heartbeat Error: state=UNINIT url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService
+2020-09-03 21:50:32 [WARN] FailoverHaStrategy Call false for request:com.weibo.motan.demo.service.MotanDemoService.commonTest(java.lang.Object) requestId=1676820603427880971 error=error_message: com.weibo.api.motan.rpc.DefaultResponseFuture task cancel: serverPort=127.0.0.1:8002 requestId=1676820603427880971 interface=com.weibo.motan.demo.service.MotanDemoService method=commonTest(java.lang.Object) cost=8167, status: 503, error_code: 10001,r=null
+2020-09-03 21:55:16 [WARN] FailoverHaStrategy Call false for request:com.weibo.motan.demo.service.MotanDemoService.commonTest(java.lang.Object) requestId=1676820603427880971 error=error_message: NettyChannel send request to server Error: url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService local=/127.0.0.1:52173 requestId=1676820603427880971 interface=com.weibo.motan.demo.service.MotanDemoService method=commonTest(java.lang.Object), status: 503, error_code: 10001,r=null
+2020-09-03 22:09:10 [WARN] NettyClient heartbeat Error: state=UNINIT url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService
+2020-09-03 22:09:11 [WARN] NettyClient heartbeat Error: state=UNINIT url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService
+2020-09-03 22:09:11 [WARN] NettyClient heartbeat Error: state=UNINIT url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService
+2020-09-03 22:09:12 [WARN] NettyClient heartbeat Error: state=UNINIT url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService
+2020-09-03 22:09:12 [WARN] NettyClient heartbeat Error: state=UNINIT url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService
+2020-09-03 22:09:13 [WARN] NettyClient heartbeat Error: state=UNINIT url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService
+2020-09-03 22:09:13 [WARN] NettyClient heartbeat Error: state=UNINIT url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService
+2020-09-03 22:09:14 [WARN] NettyClient heartbeat Error: state=UNINIT url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService
+2020-09-03 22:09:14 [WARN] NettyClient heartbeat Error: state=UNINIT url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService
+2020-09-03 22:09:15 [WARN] NettyClient heartbeat Error: state=UNINIT url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService
+2020-09-03 22:09:16 [WARN] FailoverHaStrategy Call false for request:com.weibo.motan.demo.service.MotanDemoService.commonTest(java.lang.Object) requestId=1676822085156995083 error=error_message: com.weibo.api.motan.rpc.DefaultResponseFuture request timeout: serverPort=127.0.0.1:8002 requestId=1676822085156995083 interface=com.weibo.motan.demo.service.MotanDemoService method=commonTest(java.lang.Object) cost=205, status: 503, error_code: 10003,r=null
+2020-09-03 22:09:16 [WARN] FailoverHaStrategy Call false for request:com.weibo.motan.demo.service.MotanDemoService.commonTest(java.lang.Object) requestId=1676822085156995083 error=error_message: com.weibo.api.motan.rpc.DefaultResponseFuture request timeout: serverPort=127.0.0.1:8002 requestId=1676822085156995083 interface=com.weibo.motan.demo.service.MotanDemoService method=commonTest(java.lang.Object) cost=204, status: 503, error_code: 10003,r=null
+2020-09-03 22:11:40 [WARN] NettyClient heartbeat Error: state=UNINIT url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService
+2020-09-03 22:11:40 [WARN] NettyClient heartbeat Error: state=UNINIT url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService
+2020-09-03 22:11:41 [WARN] NettyClient heartbeat Error: state=UNINIT url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService
+2020-09-03 22:11:41 [WARN] NettyClient heartbeat Error: state=UNINIT url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService
+2020-09-03 22:11:42 [WARN] NettyClient heartbeat Error: state=UNINIT url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService
+2020-09-03 22:11:42 [WARN] NettyClient heartbeat Error: state=UNINIT url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService
+2020-09-03 22:11:43 [WARN] NettyClient heartbeat Error: state=UNINIT url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService
+2020-09-03 22:11:43 [WARN] NettyClient heartbeat Error: state=UNINIT url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService
+2020-09-03 22:11:44 [WARN] NettyClient heartbeat Error: state=UNINIT url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService
+2020-09-03 22:11:44 [WARN] NettyClient heartbeat Error: state=UNINIT url=motan://127.0.0.1:8002/com.weibo.motan.demo.service.MotanDemoService
+2020-09-03 22:16:49 [WARN] FailoverHaStrategy Call false for request:com.weibo.motan.demo.service.MotanDemoService.commonTest(java.lang.Object) requestId=1676822242141405195 error=error_message: com.weibo.api.motan.rpc.DefaultResponseFuture task cancel: serverPort=127.0.0.1:8002 requestId=1676822242141405195 interface=com.weibo.motan.demo.service.MotanDemoService method=commonTest(java.lang.Object) cost=68348, status: 503, error_code: 10001,r=null
