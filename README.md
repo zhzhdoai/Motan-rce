@@ -22,6 +22,6 @@ java -jar dubbo-exp-1.0-SNAPSHOT-jar-with-dependencies.jar --target 127.0.0.1:80
 2. **motan-demo/motan-demo-client/src/main/java/com/weibo/motan/demo/client/AnnotationRpcClientDemo.java** 运行攻击服务
 
 
-# 鸣谢
+# 参考
 rpc-rce框架拉取threedr3am/learnjavabug:https://github.com/threedr3am/learnjavabug.git
 
